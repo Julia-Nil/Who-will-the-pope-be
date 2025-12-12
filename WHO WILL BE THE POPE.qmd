@@ -1,0 +1,367 @@
+---
+title: "WHO WILL BE THE POPE"
+author: "Julia Nilsson"
+format: html
+editor: visual
+---
+
+Set up the libraries
+
+```{r}
+library(tidyverse)
+library(GGally)
+library(lubridate)
+library(car)
+library(corrplot)  # for the correlation matrix
+library(bestglm)  # for variable selection
+library(pROC)  # for the ROC curve
+library(ROCR)  # for the color-coded ROC curve
+library(gridExtra)
+library(ggfortify)
+library(glmnet)
+set.seed(219)
+```
+
+Read in the data
+
+```{r}
+hist <- read.csv("who will be pope - historical dataset to feed to R.csv")
+curr <- read.csv("who will be pope - current election to feed to R.csv")
+
+```
+
+See what formats they are
+
+```{r}
+# view(hist)
+# view(curr)
+summary(hist)
+```
+
+Convert everything to factors and numbers
+
+```{r}
+hist$elected <- ifelse(hist$elected == "yes", 1, 0)
+hist$first_language <- as.factor(hist$first_language)
+hist$country_serving <- as.factor(hist$country_serving)
+hist$cardinal_type <- as.factor(hist$cardinal_type)
+hist$age_at_conclave <- as.numeric(hist$age_at_conclave)
+hist$newsweek_choice <- as.factor(hist$newsweek_choice)
+
+curr$first_language <- as.factor(curr$first_language)
+curr$country_serving <- as.factor(curr$country_serving)
+curr$cardinal_type <- as.factor(curr$cardinal_type)
+curr$age_at_conclave <- as.numeric(curr$age)
+curr$newsweek_choice <- as.factor(curr$newsweek_choice)
+
+
+
+# Convert date columns to dates
+hist$conclave_date <- dmy(hist$conclave_date)
+hist$born <- dmy(hist$born)
+hist$date_created <- dmy(hist$date_created)
+
+curr$conclave_date <- dmy(curr$conclave_date)
+curr$born <- dmy(curr$born)
+curr$date_created <- dmy(curr$date_created)
+
+```
+
+```{r}
+# summary(hist)
+# summary(curr)
+```
+
+```{r}
+numeric_hist <- hist[, sapply(hist, is.numeric)]
+cor_matrix <- cor(na.omit(numeric_hist))
+corrplot(cor_matrix, method = "circle", type = "upper")
+
+```
+
+```{r}
+p1 <- ggplot(numeric_hist, aes(factor(elected), rank)) + 
+  geom_boxplot() + 
+  labs(title = "Rank vs Elected")+ coord_flip()
+
+p2 <- ggplot(numeric_hist, aes(factor(elected), name_words)) + 
+  geom_boxplot() + 
+  labs(title = "Name Words vs Elected")+ coord_flip()
+
+p3 <- ggplot(numeric_hist, aes(factor(elected), age_at_conclave)) + 
+  geom_boxplot() + 
+  labs(title = "Age at Conclave vs Elected")+ coord_flip()
+
+p4 <- ggplot(numeric_hist, aes(factor(elected), years_served_as_cardinal)) + 
+  geom_boxplot() + 
+  labs(title = "Years Served as Cardinal vs Elected")+ coord_flip()
+
+p5 <- ggplot(numeric_hist, aes(factor(elected), votes_received_in_prev_conclave)) +
+  geom_boxplot() + 
+  labs(title = "Votes Received in Previous Conclave vs Elected")+ coord_flip()
+
+p6 <- ggplot(numeric_hist, aes(factor(elected), betting_market)) +
+  geom_boxplot() + 
+  labs(title = "Betting Market vs Elected")+ coord_flip()
+
+grid.arrange(p1, p2, p3, p4, p5,p6, ncol = 2)
+```
+
+```{r}
+p1 <- ggplot(numeric_hist, aes(x = factor(elected), y = rank)) + 
+  geom_boxplot() +
+  geom_jitter(color = "red", width = 0.2, alpha = 0.5, size = 0.8) +
+  labs(title = "Rank vs Elected") + 
+  coord_flip()
+
+p2 <- ggplot(numeric_hist, aes(x = factor(elected), y = name_words)) + 
+  geom_boxplot() +
+  geom_jitter(color = "red", width = 0.2, alpha = 0.5, size = 0.8) +
+  labs(title = "Name Words vs Elected") + 
+  coord_flip()
+
+p3 <- ggplot(numeric_hist, aes(x = factor(elected), y = age_at_conclave)) + 
+  geom_boxplot() +
+  geom_jitter(color = "red", width = 0.2, alpha = 0.5, size = 0.8) +
+  labs(title = "Age at Conclave vs Elected") + 
+  coord_flip()
+
+p4 <- ggplot(numeric_hist, aes(x = factor(elected), y = years_served_as_cardinal)) + 
+  geom_boxplot() +
+  geom_jitter(color = "red", width = 0.2, alpha = 0.5, size = 0.8) +
+  labs(title = "Years Served as Cardinal vs Elected") + 
+  coord_flip()
+
+p5 <- ggplot(numeric_hist, aes(x = factor(elected), y = votes_received_in_prev_conclave)) +
+  geom_boxplot() +
+  geom_jitter(color = "red", width = 0.2, alpha = 0.5, size = 0.8) +
+  labs(title = "Votes Received in Previous Conclave vs Elected") + 
+  coord_flip()
+
+p6 <- ggplot(numeric_hist, aes(x = factor(elected), y = betting_market)) +
+  geom_boxplot() +
+  geom_jitter(color = "red", width = 0.2, alpha = 0.5, size = 0.8) +
+  labs(title = "Betting Market vs Elected") + 
+  coord_flip()
+
+grid.arrange(p1, p2, p3, p4, p5,p6, ncol = 2)
+```
+
+```{r}
+x <- as.matrix(hist[, c("rank", "name_words", "country_serving", "age_at_conclave", "years_served_as_cardinal", "cardinal_type", "votes_received_in_prev_conclave", "newsweek_choice", "betting_market", "first_language")])
+y <- hist$elected
+
+lasso_cv <- cv.glmnet(x, y, family = "binomial", alpha = 1)
+lasso_lambda_min <- lasso_cv$lambda.min
+lasso_coef <- coef(lasso_cv, s = "lambda.min")
+
+ridge_cv <- cv.glmnet(x, y, family = "binomial", alpha = 0)
+ridge_lambda_min <- ridge_cv$lambda.min
+ridge_coef <- coef(ridge_cv, s = "lambda.min")
+
+
+list(
+  lasso_lambda_min = lasso_lambda_min,
+  lasso_coef = lasso_coef,
+  ridge_lambda_min = ridge_lambda_min,
+  ridge_coef = ridge_coef
+)
+
+```
+
+```{r}
+num_fact_hist <- hist[, sapply(hist, function(x) is.numeric(x) || is.factor(x))]
+
+best_aic <- bestglm(num_fact_hist, IC = "AIC")
+best_bic <- bestglm(num_fact_hist, IC = "BIC")
+
+summary(best_aic$BestModel)
+summary(best_bic$BestModel)
+```
+
+```{r}
+model <- glm(elected ~ rank + name_words + age_at_conclave+ years_served_as_cardinal + votes_received_in_prev_conclave,
+             data = hist, family = "binomial")
+summary(model)
+```
+
+```{r}
+vif(model)
+mean(vif(model))
+```
+
+```{r}
+hist$log_odds <- predict(model, type = "link")
+
+long <- hist |> 
+  select(log_odds, rank,name_words,age_at_conclave,years_served_as_cardinal, votes_received_in_prev_conclave,betting_market) |> 
+  pivot_longer(-log_odds, names_to = "predictor", values_to = "value")
+
+ggplot(long, aes(x = value, y = log_odds)) +
+  geom_point(alpha = 0.4) +
+  geom_smooth(method = "loess") +
+  facet_wrap(~predictor, scales = "free_x")
+```
+
+```{r}
+autoplot(model, which=4, ncol=1, nrow=1)
+
+influencePlot(model)
+```
+
+```{r}
+residuals <- resid(model)
+fitted <- fitted(model)
+
+ggplot(hist, aes(sample = residuals)) +
+  stat_qq(color = "darkseagreen4", size = 2) +
+  stat_qq_line(color = "darkslateblue") +
+  labs(
+    title = "Q-Q Plot of Residuals",
+    subtitle = "Checking for normality of errors"
+  ) +
+  theme_gray()
+
+ggplot(hist, aes(x=residuals)) +
+  geom_histogram(fill = "pink", bins=13,aes(y = ..density..)) +
+  labs(
+    title = "Residuals Histogram",
+    subtitle = "Is error normally distributed"
+  ) +
+  geom_density()+
+  theme_gray()
+```
+
+UH OH!!!
+
+```{r}
+# Fit the null model (intercept only)
+null_model <- glm(elected ~ 1, data = hist, family = "binomial")
+
+# Fit your chosen model
+model <- glm(elected ~ rank + name_words + age_at_conclave + years_served_as_cardinal + votes_received_in_prev_conclave + betting_market, data = hist, family = "binomial")
+
+# Likelihood ratio test statistic (deviance difference)
+lrt_stat <- null_model$deviance - model$deviance
+
+# Degrees of freedom
+df <- null_model$df.residual - model$df.residual
+# p-value
+p_value <- pchisq(lrt_stat, df = df, lower.tail = FALSE)
+
+# Output
+lrt_stat
+p_value
+
+```
+
+The pvalue is so tiny that we will reject the null hypothesis. Also, the likelihood test stat is extremely high, so we can say our model does a great job, and this test is strong evidence that it predicts the pope well.
+
+cutoff value for the model that minimizes the percent misclassified
+
+```{r}
+# Predicted probabilities
+probs <- predict(model, type = "response")
+
+# True labels
+true <- hist$elected
+
+# Try many cutoff values from 0 to 1
+cutoffs <- seq(0, 1, by = 0.01)
+misclass_rates <- sapply(cutoffs, function(cut) {
+  pred <- ifelse(probs > cut, 1, 0)
+  mean(pred != true)
+})
+
+# Best cutoff = the one with lowest misclassification rate
+best_cutoff <- cutoffs[which.min(misclass_rates)]
+
+# Output
+best_cutoff
+```
+
+confusion matrix
+
+```{r}
+# Use best cutoff to get predicted class
+predicted_class <- ifelse(probs > best_cutoff, 1, 0)
+
+# Create confusion matrix
+conf_matrix <- table(Predicted = predicted_class, Actual = true)
+
+# Output
+conf_matrix
+```
+
+interpretation:
+
+True Negatives: 338
+
+False Positives: 1
+
+False Negatives: 10
+
+True Positives: 11
+
+```{r}
+specificity <- 338/(338+1)
+specificity
+```
+
+Specificity is the true negative rate, so, correctly identified negatives / all negatives. Since it's 99%, that means the model can correctly identify 99% of people who will not get elected.
+
+```{r}
+sensitivity <- 11/(11+10)
+sensitivity
+```
+
+sensitivity is the proportion of correctly identified positive cases / all positive cases. Since it's 52%, that means we correctly Identified someone who will be elected 52% of the time.
+
+```{r}
+# True Negatives: 338
+# False Positives: 1 
+# False Negatives: 10
+# True Positives: 11
+
+
+percentcorrect <-  (338+11)/(338+1+10+11)
+percentcorrect
+```
+
+\^ 96% of people were correctly sorted into their category (elected or no)
+
+```{r}
+curr_under_80 <- curr[curr$age_at_conclave <= 80, ]
+curr_under_80$predicted_prob <- predict(model, newdata = curr_under_80, type = "response")
+view(curr_under_80)
+```
+
+make some more models
+
+```{r}
+another_model <- glm(elected ~ rank + name_words + age_at_conclave + years_served_as_cardinal + votes_received_in_prev_conclave + betting_market,
+             data = hist, family = "binomial")
+summary(model)
+```
+
+```{r}
+# curr$predicted_prob_big_model <- predict(big_model, newdata = curr, type = "response")
+```
+
+```{r}
+pretty_table <- curr_under_80 |> 
+  select(
+    name,
+    country_serving,
+    age_at_conclave,
+    position,
+    predicted_prob
+  ) |> 
+  arrange(desc(predicted_prob))
+view(pretty_table)
+
+head(pretty_table)
+tail(pretty_table)
+
+write.csv(pretty_table, "pope_results.csv", row.names = FALSE)
+```

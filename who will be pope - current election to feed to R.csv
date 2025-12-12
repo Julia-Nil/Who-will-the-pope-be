@@ -1,0 +1,265 @@
+conclave_date,pope_name,rank,name,name_words,country_serving,born,years_above_80,years_below_80,age,years_served_as_cardinal,cardinal_type,date_created,creator_pope,position,votes_received_in_prev_conclave,ap_choice,newsweek_choice,betting_market,first_language
+21-Apr-2025,NA,1,Giovanni Battista Re,3,Italy,30-Jan-1934,11.2,0.0,91.2,24.1615,CB,21-Feb-2001,John Paul II,Prefect emeritus of the Congregation for Bishops,0,0,0,0.0526,Italian
+21-Apr-2025,NA,2,Leonardo Sandri,2,Argentina,18-Nov-1943,1.4,0.0,81.4,17.4073,CB,24-Nov-2007,Benedict XVI,Prefect emeritus of the Dicastery for the Eastern Churches,0,0,0,0,Spanish
+21-Apr-2025,NA,3,Francis Arinze,2,Nigeria,1-Nov-1932,12.5,0.0,92.5,39.9069,CB,25-May-1985,John Paul II,Prefect emeritus of the Congregation for Divine Worship and the Discipline of the Sacraments,0,0,0,0,Igbo
+21-Apr-2025,NA,4,Tarcisio Bertone ,2,Italy,2-Dec-1934,10.4,0.0,90.4,21.5003,CB,21-Oct-2003,John Paul II,Secretary of State emeritus of His Holiness and Camerlengo emeritus of the Holy Roman Church,0,0,0,0,Italian
+21-Apr-2025,NA,5,José Saraiva Martins ,3,Portugal,6-Jan-1932,13.3,0.0,93.3,24.1615,CB,21-Feb-2001,John Paul II,Prefect emeritus of the Congregation for the Causes of Saints,0,0,0,0,Portuguese
+21-Apr-2025,NA,6,Pietro Parolin,2,Italy,17-Jan-1955,0.0,9.7,70.3,11.1595,CB,22-Feb-2014,Francis,Secretary of State of His Holiness[c],0,1,1,0.2326,Italian
+21-Apr-2025,NA,7,Marc Ouellet ,2,Canada,8-Jun-1944,0.9,0.0,80.9,21.5003,CB,21-Oct-2003,John Paul II,Prefect emeritus of the Dicastery for Bishops,22,0,0,0,French
+21-Apr-2025,NA,8,Fernando Filoni,2,Italy,15-Apr-1946,0.0,1.0,79.0,13.1718,CB,18-Feb-2012,Benedict XVI,Grand Master of the Order of the Holy Sepulchre,0,0,0,0,Italian
+21-Apr-2025,NA,9,Beniamino Stella,2,Italy,18-Aug-1941,3.7,0.0,83.7,11.1595,CB,22-Feb-2014,Francis,Prefect emeritus of the Congregation for the Clergy,0,0,0,0,Italian
+21-Apr-2025,NA,10,Luis Antonio Tagle,3,Philippines,21-Jun-1957,0.0,12.2,67.8,12.4052,CB,24-Nov-2012,Benedict XVI,Pro-Prefect of the Dicastery for Evangelization[c],0,1,1,0.1852,Tagalog
+21-Apr-2025,NA,11,Robert Francis Prevost ,3,United States,14-Sep-1955,0.0,10.4,69.6,1.5578,CB,30-Sep-2023,Francis,Prefect of the Dicastery for Bishops[c],0,0,0,0,English
+21-Apr-2025,NA,12,Bechara Boutros al-Rahi ,3,Lebanon,25-Feb-1940,5.2,0.0,85.2,12.4052,CB,24-Nov-2012,Benedict XVI,"Patriarch of Antioch
+(Maronite Church)",0,0,0,0,Arabic
+21-Apr-2025,NA,13,Louis Raphaël I Sako,4,Iraq,4-Jul-1948,0.0,3.2,76.8,6.8145,CB,28-Jun-2018,Francis,"Patriarch of Baghdad
+(Chaldean Church)",0,0,0,0,Arabic
+21-Apr-2025,NA,14,Michael Michai Kitbunchu,3,Thailand,25-Jan-1929,16.2,0.0,96.2,42.2149,CP,2-Feb-1983,John Paul II,Archbishop emeritus of Bangkok,0,0,0,0,Thai
+21-Apr-2025,NA,15,Paul Poupard,2,France,30-Aug-1930,14.6,0.0,94.6,39.9069,CP,25-May-1985,John Paul II,President emeritus of the Pontifical Councils for Culture and for Interreligious Dialogue,0,0,0,0,French
+21-Apr-2025,NA,16,Friedrich Wetter,2,Germany,20-Feb-1928,17.2,0.0,97.2,39.9069,CP,25-May-1985,John Paul II,Archbishop emeritus of Munich and Freising,0,0,0,0,German
+21-Apr-2025,NA,17,Nicolás de Jesús López Rodríguez,5,Dominican Republic,31-Oct-1936,8.5,0.0,88.5,33.8152,CP,28-Jun-1991,John Paul II,Archbishop emeritus of Santo Domingo,0,0,0,0,Spanish
+21-Apr-2025,NA,18,Roger Mahony,2,United States,27-Feb-1936,9.1,0.0,89.1,33.8152,CP,28-Jun-1991,John Paul II,Archbishop emeritus of Los Angeles,0,0,0,0,English
+21-Apr-2025,NA,19,Camillo Ruini,2,Italy,19-Feb-1931,14.2,0.0,94.2,33.8152,CP,28-Jun-1991,John Paul II,Vicar General emeritus for Rome and Archpriest emeritus of the Papal Basilica of Saint John Lateran,0,0,0,0,Italian
+21-Apr-2025,NA,20,Julius Darmaatmadja ,2,Indonesia,20-Dec-1934,10.3,0.0,90.3,30.4011,CP,26-Nov-1994,John Paul II,Archbishop emeritus of Jakarta,0,0,0,0,Javanese
+21-Apr-2025,NA,21,Emmanuel Wamala,2,Uganda,15-Dec-1926,18.3,0.0,98.3,30.4011,CP,26-Nov-1994,John Paul II,Archbishop emeritus of Kampala,0,0,0,0,Luganda
+21-Apr-2025,NA,22,Adam Maida,2,United States,18-Mar-1930,15.1,0.0,95.1,30.4011,CP,26-Nov-1994,John Paul II,Archbishop emeritus of Detroit,0,0,0,0,English
+21-Apr-2025,NA,23,Vinko Puljić,2,Bosnia and Herzegovina,8-Sep-1945,0.0,0.4,79.6,30.4011,CP,26-Nov-1994,John Paul II,Archbishop emeritus of Vrhbosna,0,0,0,0,Croatian
+21-Apr-2025,NA,24,Juan Sandoval Íñiguez,3,Mexico,28-Mar-1933,12.1,0.0,92.1,30.4011,CP,26-Nov-1994,John Paul II,Archbishop emeritus of Guadalajara,0,0,0,0,Spanish
+21-Apr-2025,NA,25,James Stafford,2,United States,26-Jul-1932,12.7,0.0,92.7,27.1622,CP,21-Feb-1998,John Paul II,Major Penitentiary emeritus,0,0,0,0,English
+21-Apr-2025,NA,26,Salvatore De Giorgi,3,Italy,6-Sep-1930,14.6,0.0,94.6,27.1622,CP,21-Feb-1998,John Paul II,Archbishop emeritus of Palermo,0,0,0,0,Italian
+21-Apr-2025,NA,27,Antonio María Rouco Varela,4,Spain,20-Aug-1936,8.7,0.0,88.7,27.1622,CP,21-Feb-1998,John Paul II,Archbishop emeritus of Madrid,0,0,0,0,Spanish
+21-Apr-2025,NA,28,Polycarp Pengo,2,Tanzania,5-Aug-1944,0.7,0.0,80.7,27.1622,CP,21-Feb-1998,John Paul II,Archbishop emeritus of Dar-es-Salaam,0,0,0,0,Swahili
+21-Apr-2025,NA,29,Christoph Schönborn ,2,Austria[d],22-Jan-1945,0.2,0.0,80.2,27.1622,CP,21-Feb-1998,John Paul II,Archbishop emeritus of Vienna,0,0,0,0,German
+21-Apr-2025,NA,30,Norberto Rivera Carrera,3,Mexico,6-Jun-1942,2.9,0.0,82.9,27.1622,CP,21-Feb-1998,John Paul II,Archbishop emeritus of Mexico,0,0,0,0,Spanish
+21-Apr-2025,NA,31,Jānis Pujats,2,Latvia,14-Nov-1930,14.4,0.0,94.4,27.1622,CP,21-Feb-1998,John Paul II,Archbishop emeritus of Riga,0,0,0,0,Latvian
+21-Apr-2025,NA,32,Crescenzio Sepe,2,Italy,2-Jun-1943,1.9,0.0,81.9,24.1615,CP,21-Feb-2001,John Paul II,Archbishop emeritus of Naples,0,0,0,0,Italian
+21-Apr-2025,NA,33,Walter Kasper,2,Germany,5-Mar-1933,12.1,0.0,92.1,24.1615,CP,21-Feb-2001,John Paul II,President emeritus of the Pontifical Council for Promoting Christian Unity,0,0,0,0,German
+21-Apr-2025,NA,34,Audrys Bačkis,2,Lithuania,1-Feb-1937,8.2,0.0,88.2,24.1615,CP,21-Feb-2001,John Paul II,Archbishop emeritus of Vilnius,0,0,0,0,Lithuanian
+21-Apr-2025,NA,35,Francisco Javier Errázuriz Ossa ,4,Chile,5-Sep-1933,11.6,0.0,91.6,24.1615,CP,21-Feb-2001,John Paul II,Archbishop emeritus of Santiago de Chile,0,0,0,0,Spanish
+21-Apr-2025,NA,36,Wilfrid Napier ,2,South Africa,8-Mar-1941,4.1,0.0,84.1,24.1615,CP,21-Feb-2001,John Paul II,Archbishop emeritus of Durban,0,0,0,0,English
+21-Apr-2025,NA,37,Óscar Rodríguez Maradiaga ,3,Honduras,29-Dec-1942,2.3,0.0,82.3,24.1615,CP,21-Feb-2001,John Paul II,Archbishop emeritus of Tegucigalpa and Coordinator emeritus of the Council of Cardinals,0,0,0,0,Spanish
+21-Apr-2025,NA,38,Juan Luis Cipriani Thorne,4,Peru,28-Dec-1943,1.3,0.0,81.3,24.1615,CP,21-Feb-2001,John Paul II,Archbishop emeritus of Lima,0,0,0,0,Spanish
+21-Apr-2025,NA,39,Julián Herranz Casado,3,Spain,31-Mar-1930,15.1,0.0,95.1,21.5003,CP,21-Oct-2003,John Paul II,President emeritus of the Pontifical Council for Legislative Texts,0,0,0,0,Spanish
+21-Apr-2025,NA,40,Angelo Scola,2,Italy,7-Nov-1941,3.5,0.0,83.5,21.5003,CP,21-Oct-2003,John Paul II,Archbishop emeritus of Milan,30,0,0,0,Italian
+21-Apr-2025,NA,41,Anthony Olubunmi Okogie,3,Nigeria,16-Jun-1936,8.8,0.0,88.8,21.5003,CP,21-Oct-2003,John Paul II,Archbishop emeritus of Lagos,0,0,0,0,Yoruba
+21-Apr-2025,NA,42,Gabriel Zubeir Wako,3,Sudan,27-Feb-1941,4.1,0.0,84.1,21.5003,CP,21-Oct-2003,John Paul II,Archbishop emeritus of Khartoum,0,0,0,0,Arabic
+21-Apr-2025,NA,43,Justin Rigali,2,United States,19-Apr-1935,10.0,0.0,90.0,21.5003,CP,21-Oct-2003,John Paul II,Archbishop emeritus of Philadelphia,0,0,0,0,English
+21-Apr-2025,NA,44,Ennio Antonelli,2,Italy,18-Nov-1936,8.4,0.0,88.4,21.5003,CP,21-Oct-2003,John Paul II,President emeritus of the Pontifical Council for the Family,0,0,0,0,Italian
+21-Apr-2025,NA,45,Peter Turkson,2,Ghana,11-Oct-1948,0.0,3.5,76.5,21.5003,CP,21-Oct-2003,John Paul II,Chancellor of the Pontifical Academy of Sciences and the Pontifical Academy of Social Sciences,0,0,1,0.1429,Fante
+21-Apr-2025,NA,46,Josip Bozanić,2,Croatia,20-Mar-1949,0.0,3.9,76.1,21.5003,CP,21-Oct-2003,John Paul II,Archbishop emeritus of Zagreb,0,0,0,0,Croatian
+21-Apr-2025,NA,47,Jean-Baptiste Phạm Minh Mẫn,4,Vietnam,5-Mar-1934,11.1,0.0,91.1,21.5003,CP,21-Oct-2003,John Paul II,Archbishop emeritus of Ho Chi Minh City,0,0,0,0,Vietnamese
+21-Apr-2025,NA,48,Philippe Barbarin,2,France,17-Oct-1950,0.0,5.5,74.5,21.5003,CP,21-Oct-2003,John Paul II,Archbishop emeritus of Lyon,0,0,0,0,French
+21-Apr-2025,NA,49,Péter Erdő,2,Hungary,25-Jun-1952,0.0,7.2,72.8,21.5003,CP,21-Oct-2003,John Paul II,Archbishop of Esztergom–Budapest,0,1,0,0,Hungarian
+21-Apr-2025,NA,50,Franc Rodé ,2,Slovenia,23-Sep-1934,10.6,0.0,90.6,19.0773,CP,24-Mar-2006,Benedict XVI,Prefect emeritus of the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life,0,0,0,0,Slovene
+21-Apr-2025,NA,51,Agostino Vallini,2,Italy,17-Apr-1940,5.0,0.0,85.0,19.0773,CP,24-Mar-2006,Benedict XVI,Pontifical Legate for the Basilicas of Saint Francis and Saint Mary of the Angels in Assisi,0,0,0,0,Italian
+21-Apr-2025,NA,52,Gaudencio Borbon Rosales,3,Philippines,10-Aug-1932,12.7,0.0,92.7,19.0773,CP,24-Mar-2006,Benedict XVI,Archbishop emeritus of Manila,0,0,0,0,Tagalog
+21-Apr-2025,NA,53,Jean-Pierre Ricard,2,France,25-Sep-1944,0.6,0.0,80.6,19.0773,CP,24-Mar-2006,Benedict XVI,Archbishop emeritus of Bordeaux,0,0,0,0,French
+21-Apr-2025,NA,54,Antonio Cañizares Llovera,3,Spain,15-Oct-1945,0.0,0.5,79.5,19.0773,CP,24-Mar-2006,Benedict XVI,Archbishop emeritus of Valencia,0,0,0,0,Spanish
+21-Apr-2025,NA,55,Seán Patrick O'Malley,3,United States,29-Jun-1944,0.8,0.0,80.8,19.0773,CP,24-Mar-2006,Benedict XVI,Archbishop emeritus of Boston and President of the Pontifical Commission for the Protection of Minors,10,0,0,0,English
+21-Apr-2025,NA,56,Stanisław Dziwisz,2,Poland,27-Apr-1939,6.0,0.0,86.0,19.0773,CP,24-Mar-2006,Benedict XVI,Archbishop emeritus of Kraków,0,0,0,0,Polish
+21-Apr-2025,NA,57,Joseph Zen Ze-kiun ,3,"China
+(Hong Kong)[f]",13-Jan-1932,13.3,0.0,93.3,19.0773,CP,24-Mar-2006,Benedict XVI,Bishop emeritus of Hong Kong,0,0,0,0,Cantonese
+21-Apr-2025,NA,58,Giovanni Lajolo,2,Italy,3-Jan-1935,10.3,0.0,90.3,17.4073,CP,24-Nov-2007,Benedict XVI,President emeritus of the Pontifical Commission for Vatican City State,0,0,0,0,Italian
+21-Apr-2025,NA,59,Angelo Comastri,2,Italy,17-Sep-1943,1.6,0.0,81.6,17.4073,CP,24-Nov-2007,Benedict XVI,"Vicar General emeritus for Vatican City, Archpriest emeritus of the Papal Basilica of Saint Peter and President emeritus of the Fabric of Saint Peter",0,0,0,0,Italian
+21-Apr-2025,NA,60,Stanisław Ryłko,2,Poland,4-Jul-1945,0.0,0.2,79.8,17.4073,CP,24-Nov-2007,Benedict XVI,Archpriest of the Papal Basilica of Saint Mary Major,0,0,0,0,Polish
+21-Apr-2025,NA,61,Raffaele Farina ,2,Italy,24-Sep-1933,11.6,0.0,91.6,17.4073,CP,24-Nov-2007,Benedict XVI,Archivist and Librarian emeritus of the Holy Roman Church,0,0,0,0,Italian
+21-Apr-2025,NA,62,Seán Brady,2,Ireland[g],16-Aug-1939,5.7,0.0,85.7,17.4073,CP,24-Nov-2007,Benedict XVI,Archbishop emeritus of Armagh,0,0,0,0,English
+21-Apr-2025,NA,63,Lluís Martínez i Sistach,4,Spain,29-Apr-1937,8.0,0.0,88.0,17.4073,CP,24-Nov-2007,Benedict XVI,Archbishop emeritus of Barcelona,0,0,0,0,Catalan
+21-Apr-2025,NA,64,André Vingt-Trois,2,France,7-Nov-1942,2.5,0.0,82.5,17.4073,CP,24-Nov-2007,Benedict XVI,Archbishop emeritus of Paris,0,0,0,0,French
+21-Apr-2025,NA,65,Angelo Bagnasco,2,Italy,14-Jan-1943,2.3,0.0,82.3,17.4073,CP,24-Nov-2007,Benedict XVI,Archbishop emeritus of Genoa,0,0,0,0,Italian
+21-Apr-2025,NA,66,Théodore-Adrien Sarr,2,Senegal,28-Nov-1936,8.4,0.0,88.4,17.4073,CP,24-Nov-2007,Benedict XVI,Archbishop emeritus of Dakar,0,0,0,0,French
+21-Apr-2025,NA,67,Oswald Gracias,2,India,24-Dec-1944,0.3,0.0,80.3,17.4073,CP,24-Nov-2007,Benedict XVI,Archbishop emeritus of Bombay,0,0,0,0,English
+21-Apr-2025,NA,68,Francisco Robles Ortega,3,Mexico,2-Mar-1949,0.0,3.9,76.1,17.4073,CP,24-Nov-2007,Benedict XVI,Archbishop of Guadalajara,0,0,0,0,Spanish
+21-Apr-2025,NA,69,Daniel DiNardo,2,United States,23-May-1949,0.0,4.1,75.9,17.4073,CP,24-Nov-2007,Benedict XVI,Archbishop emeritus of Galveston–Houston,0,0,0,0,English
+21-Apr-2025,NA,70,Odilo Scherer,2,Brazil,21-Sep-1949,0.0,4.4,75.6,17.4073,CP,24-Nov-2007,Benedict XVI,Archbishop of São Paulo,4,0,0,0,Portuguese
+21-Apr-2025,NA,71,John Njue,2,Kenya,1-Jan-1946,0.0,0.7,79.3,17.4073,CP,24-Nov-2007,Benedict XVI,Archbishop emeritus of Nairobi,0,0,0,0,Kikuyu
+21-Apr-2025,NA,72,Estanislao Esteban Karlic,3,Argentina,7-Feb-1926,19.2,0.0,99.2,17.4073,CP,24-Nov-2007,Benedict XVI,Archbishop emeritus of Paraná,0,0,0,0,Spanish
+21-Apr-2025,NA,73,Robert Sarah,2,Guinea,15-Jun-1945,0.0,0.2,79.8,14.4175,CP,20-Nov-2010,Benedict XVI,Prefect emeritus of the Congregation for Divine Worship and the Discipline of the Sacraments,0,0,0,0.0417,French
+21-Apr-2025,NA,74,Francesco Monterisi,2,Italy,28-May-1934,10.9,0.0,90.9,14.4175,CP,20-Nov-2010,Benedict XVI,Archpriest emeritus of the Papal Basilica of Saint Paul Outside the Walls,0,0,0,0,Italian
+21-Apr-2025,NA,75,Raymond Leo Burke,3,United States,30-Jun-1948,0.0,3.2,76.8,14.4175,CP,20-Nov-2010,Benedict XVI,Patron emeritus of the Sovereign Military Order of Malta,0,0,0,0,English
+21-Apr-2025,NA,76,Kurt Koch,2,Switzerland,15-Mar-1950,0.0,4.9,75.1,14.4175,CP,20-Nov-2010,Benedict XVI,Prefect of the Dicastery for Promoting Christian Unity[c],0,0,0,0,German
+21-Apr-2025,NA,77,Mauro Piacenza,2,Italy,15-Sep-1944,0.6,0.0,80.6,14.4175,CP,20-Nov-2010,Benedict XVI,Major Penitentiary emeritus,0,0,0,0,Italian
+21-Apr-2025,NA,78,Gianfranco Ravasi,2,Italy,18-Oct-1942,2.5,0.0,82.5,14.4175,CP,20-Nov-2010,Benedict XVI,President emeritus of the Pontifical Council for Culture,0,0,0,0,Italian
+21-Apr-2025,NA,79,Paolo Romeo,2,Italy,20-Feb-1938,7.2,0.0,87.2,14.4175,CP,20-Nov-2010,Benedict XVI,Archbishop emeritus of Palermo,0,0,0,0,Italian
+21-Apr-2025,NA,80,Donald Wuerl,2,United States,12-Nov-1940,4.4,0.0,84.4,14.4175,CP,20-Nov-2010,Benedict XVI,Archbishop emeritus of Washington,0,0,0,0,English
+21-Apr-2025,NA,81,Raymundo Damasceno Assis,3,Brazil,15-Feb-1937,8.2,0.0,88.2,14.4175,CP,20-Nov-2010,Benedict XVI,Archbishop emeritus of Aparecida,0,0,0,0,Portuguese
+21-Apr-2025,NA,82,Kazimierz Nycz,2,Poland,1-Feb-1950,0.0,4.8,75.2,14.4175,CP,20-Nov-2010,Benedict XVI,Archbishop emeritus of Warsaw,0,0,0,0,Polish
+21-Apr-2025,NA,83,Malcolm Ranjith,2,Sri Lanka,15-Nov-1947,0.0,2.6,77.4,14.4175,CP,20-Nov-2010,Benedict XVI,Archbishop of Colombo,0,0,0,0,Sinhala
+21-Apr-2025,NA,84,Reinhard Marx,2,Germany,21-Sep-1953,0.0,8.4,71.6,14.4175,CP,20-Nov-2010,Benedict XVI,Archbishop of Munich and Freising and Coordinator of the Council for the Economy[c],0,0,0,0,German
+21-Apr-2025,NA,85,Walter Brandmüller,2,Germany,5-Jan-1929,16.3,0.0,96.3,13.1718,CP,18-Feb-2012,Benedict XVI,President emeritus of the Pontifical Committee for Historical Sciences,0,0,0,0,German
+21-Apr-2025,NA,86,Manuel Monteiro de Castro,4,Portugal,29-Mar-1938,7.1,0.0,87.1,13.1718,CP,18-Feb-2012,Benedict XVI,Major Penitentiary emeritus,0,0,0,0,Portuguese
+21-Apr-2025,NA,87,Santos Abril y Castelló,4,Spain,21-Sep-1935,9.6,0.0,89.6,13.1718,CP,18-Feb-2012,Benedict XVI,Archpriest emeritus of the Papal Basilica of Saint Mary Major,0,0,0,0,Spanish
+21-Apr-2025,NA,88,Antonio Maria Vegliò,3,Italy,3-Feb-1938,7.2,0.0,87.2,13.1718,CP,18-Feb-2012,Benedict XVI,President emeritus of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People,0,0,0,0,Italian
+21-Apr-2025,NA,89,Giuseppe Bertello,2,Italy,1-Oct-1942,2.6,0.0,82.6,13.1718,CP,18-Feb-2012,Benedict XVI,President emeritus of the Pontifical Commission for Vatican City State,0,0,0,0,Italian
+21-Apr-2025,NA,90,Francesco Coccopalmerio,2,Italy,6-Mar-1938,7.1,0.0,87.1,13.1718,CP,18-Feb-2012,Benedict XVI,President emeritus of the Pontifical Council for Legislative Texts,0,0,0,0,Italian
+21-Apr-2025,NA,91,João Braz de Aviz,4,Brazil,24-Apr-1947,0.0,2.0,78.0,13.1718,CP,18-Feb-2012,Benedict XVI,Prefect emeritus of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life,0,0,0,0,Portuguese
+21-Apr-2025,NA,92,Edwin Frederick O'Brien,3,United States,8-Apr-1939,6.0,0.0,86.0,13.1718,CP,18-Feb-2012,Benedict XVI,Grand Master emeritus of the Order of the Holy Sepulchre,0,0,0,0,English
+21-Apr-2025,NA,93,Domenico Calcagno,2,Italy,3-Feb-1943,2.2,0.0,82.2,13.1718,CP,18-Feb-2012,Benedict XVI,President emeritus of the Administration of the Patrimony of the Apostolic See,0,0,0,0,Italian
+21-Apr-2025,NA,94,Giuseppe Versaldi,2,Italy,30-Jul-1943,1.7,0.0,81.7,13.1718,CP,18-Feb-2012,Benedict XVI,Prefect emeritus of the Congregation for Catholic Education,0,0,0,0,Italian
+21-Apr-2025,NA,95,George Alencherry,2,India,19-Apr-1945,0.0,0.0,80.0,13.1718,CP,18-Feb-2012,Benedict XVI,"Major Archbishop emeritus of Ernakulam–Angamaly
+(Syro-Malabar Church)",0,0,0,0,Malayalam
+21-Apr-2025,NA,96,Thomas Collins,2,Canada,16-Jan-1947,0.0,1.7,78.3,13.1718,CP,18-Feb-2012,Benedict XVI,Archbishop emeritus of Toronto,0,0,0,0,English
+21-Apr-2025,NA,97,Dominik Duka ,2,Czech Republic,26-Apr-1943,2.0,0.0,82.0,13.1718,CP,18-Feb-2012,Benedict XVI,Archbishop emeritus of Prague,0,0,0,0,Czech
+21-Apr-2025,NA,98,Wim Eijk,2,Netherlands,22-Jun-1953,0.0,8.2,71.8,13.1718,CP,18-Feb-2012,Benedict XVI,Archbishop of Utrecht,0,0,0,0,Dutch
+21-Apr-2025,NA,99,Giuseppe Betori,2,Italy,25-Feb-1947,0.0,1.8,78.2,13.1718,CP,18-Feb-2012,Benedict XVI,Archbishop emeritus of Florence,0,0,0,0,Italian
+21-Apr-2025,NA,100,Timothy M. Dolan,3,United States,6-Feb-1950,0.0,4.8,75.2,12.4052,CP,24-Nov-2012,Benedict XVI,Archbishop of New York,0,0,0,0,English
+21-Apr-2025,NA,101,Rainer Woelki,2,Germany,18-Aug-1956,0.0,11.3,68.7,12.4052,CP,24-Nov-2012,Benedict XVI,Archbishop of Cologne,0,0,0,0,German
+21-Apr-2025,NA,102,John Tong Hon,3,"China
+(Hong Kong)[f]",31-Jul-1939,5.7,0.0,85.7,12.4052,CP,24-Nov-2012,Benedict XVI,Bishop emeritus of Hong Kong,0,0,0,0,Cantonese
+21-Apr-2025,NA,103,Lucian Mureșan,2,Romania,23-May-1931,13.9,0.0,93.9,12.4052,CP,24-Nov-2012,Benedict XVI,"Major Archbishop of Făgăraș and Alba Iulia
+(Romanian Greek Church)",0,0,0,0,Romanian
+21-Apr-2025,NA,104,James Michael Harvey,3,United States,20-Oct-1949,0.0,4.5,75.5,11.1595,CP,22-Feb-2014,Francis,Archpriest of the Papal Basilica of Saint Paul Outside the Walls,0,0,0,0,English
+21-Apr-2025,NA,105,Baselios Cleemis,2,India,15-Jun-1959,0.0,14.1,65.9,11.1595,CP,22-Feb-2014,Francis,"Major Archbishop of Trivandrum
+(Syro-Malankara Church)",0,0,0,0,Malayalam
+21-Apr-2025,NA,106,John Onaiyekan,2,Nigeria,29-Jan-1944,1.2,0.0,81.2,11.1595,CP,22-Feb-2014,Francis,Archbishop emeritus of Abuja,0,0,0,0,English
+21-Apr-2025,NA,107,Rubén Salazar Gómez,3,Colombia,22-Sep-1942,2.6,0.0,82.6,11.1595,CP,22-Feb-2014,Francis,Archbishop emeritus of Bogotá,0,0,0,0,Spanish
+21-Apr-2025,NA,108,Lorenzo Baldisseri,2,Italy,29-Sep-1940,4.6,0.0,84.6,11.1595,CP,22-Feb-2014,Francis,Secretary-General emeritus of the Synod of Bishops,0,0,0,0,Italian
+21-Apr-2025,NA,109,Gerhard Ludwig Müller,3,Germany,31-Dec-1947,0.0,2.7,77.3,11.1595,CP,22-Feb-2014,Francis,Prefect emeritus of the Congregation for the Doctrine of the Faith,0,0,0,0,German
+21-Apr-2025,NA,110,Vincent Nichols,2,United Kingdom,8-Nov-1945,0.0,0.6,79.4,11.1595,CP,22-Feb-2014,Francis,Archbishop of Westminster,0,0,0,0,English
+21-Apr-2025,NA,111,Leopoldo Brenes,2,Nicaragua,7-Mar-1949,0.0,3.9,76.1,11.1595,CP,22-Feb-2014,Francis,Archbishop of Managua,0,0,0,0,Spanish
+21-Apr-2025,NA,112,Gérald Lacroix ,2,Canada,27-Jul-1957,0.0,12.3,67.7,11.1595,CP,22-Feb-2014,Francis,Archbishop of Quebec,0,0,0,0,French
+21-Apr-2025,NA,113,Jean-Pierre Kutwa,2,Ivory Coast,22-Dec-1945,0.0,0.7,79.3,11.1595,CP,22-Feb-2014,Francis,Archbishop emeritus of Abidjan,0,0,0,0,French
+21-Apr-2025,NA,114,Orani João Tempesta ,3,Brazil,23-Jun-1950,0.0,5.2,74.8,11.1595,CP,22-Feb-2014,Francis,Archbishop of São Sebastião do Rio de Janeiro,0,0,0,0,Portuguese
+21-Apr-2025,NA,115,Gualtiero Bassetti,2,Italy,7-Apr-1942,3.0,0.0,83.0,11.1595,CP,22-Feb-2014,Francis,Archbishop emeritus of Perugia–Città della Pieve,0,0,0,0,Italian
+21-Apr-2025,NA,116,Mario Aurelio Poli,3,Argentina,29-Nov-1947,0.0,2.6,77.4,11.1595,CP,22-Feb-2014,Francis,Archbishop emeritus of Buenos Aires,0,0,0,0,Spanish
+21-Apr-2025,NA,117,Andrew Yeom Soo-jung,3,South Korea,5-Dec-1943,1.4,0.0,81.4,11.1595,CP,22-Feb-2014,Francis,Archbishop emeritus of Seoul,0,0,0,0,Korean
+21-Apr-2025,NA,118,Ricardo Ezzati ,2,Chile[i],7-Jan-1942,3.3,0.0,83.3,10.1821,CP,14-Feb-2015,Francis,Archbishop emeritus of Santiago de Chile,0,0,0,0,Spanish
+21-Apr-2025,NA,119,Philippe Ouédraogo,2,Burkina Faso,31-Dec-1945,0.0,0.7,79.3,10.1821,CP,14-Feb-2015,Francis,Archbishop emeritus of Ouagadougou,0,0,0,0,French
+21-Apr-2025,NA,120,Orlando Quevedo ,2,Philippines,11-Mar-1939,6.1,0.0,86.1,10.1821,CP,14-Feb-2015,Francis,Archbishop emeritus of Cotabato,0,0,0,0,Ilocano
+21-Apr-2025,NA,121,Chibly Langlois,2,Haiti,29-Nov-1958,0.0,13.6,66.4,10.1821,CP,14-Feb-2015,Francis,Bishop of Les Cayes,0,0,0,0,Haitian Creole
+21-Apr-2025,NA,122,Manuel Clemente,2,Portugal,16-Jul-1948,0.0,3.2,76.8,10.1821,CP,14-Feb-2015,Francis,Patriarch emeritus of Lisbon,0,0,0,0,Portuguese
+21-Apr-2025,NA,123,Berhaneyesus Demerew Souraphiel ,3,Ethiopia,14-Jul-1948,0.0,3.2,76.8,10.1821,CP,14-Feb-2015,Francis,"Archbishop of Addis Abeba
+(Ethiopian Church)",0,0,0,0,Amharic
+21-Apr-2025,NA,124,John Dew,2,New Zealand,5-May-1948,0.0,3.0,77.0,10.1821,CP,14-Feb-2015,Francis,Archbishop emeritus of Wellington,0,0,0,0,English
+21-Apr-2025,NA,125,Edoardo Menichelli,2,Italy,14-Oct-1939,5.5,0.0,85.5,10.1821,CP,14-Feb-2015,Francis,Archbishop emeritus of Ancona–Osimo,0,0,0,0,Italian
+21-Apr-2025,NA,126,Pierre Nguyễn Văn Nhơn,4,Vietnam,1-Apr-1938,7.1,0.0,87.1,10.1821,CP,14-Feb-2015,Francis,Archbishop emeritus of Hanoi,0,0,0,0,Vietnamese
+21-Apr-2025,NA,127,Alberto Suárez Inda,3,Mexico,30-Jan-1939,6.2,0.0,86.2,10.1821,CP,14-Feb-2015,Francis,Archbishop emeritus of Morelia,0,0,0,0,Spanish
+21-Apr-2025,NA,128,Charles Maung Bo ,3,Myanmar,29-Oct-1948,0.0,3.5,76.5,10.1821,CP,14-Feb-2015,Francis,Archbishop of Yangon,0,0,0,0,Burmese
+21-Apr-2025,NA,129,Kriengsak Kovitvanit,2,Thailand,27-Jun-1949,0.0,4.2,75.8,10.1821,CP,14-Feb-2015,Francis,Archbishop emeritus of Bangkok,0,0,0,0,Thai
+21-Apr-2025,NA,130,Francesco Montenegro,2,Italy,22-May-1946,0.0,1.1,78.9,10.1821,CP,14-Feb-2015,Francis,Archbishop emeritus of Agrigento,0,0,0,0,Italian
+21-Apr-2025,NA,131,Daniel Sturla ,2,Uruguay,4-Jul-1959,0.0,14.2,65.8,10.1821,CP,14-Feb-2015,Francis,Archbishop of Montevideo,0,0,0,0,Spanish
+21-Apr-2025,NA,132,Ricardo Blázquez,2,Spain,13-Apr-1942,3.0,0.0,83.0,10.1821,CP,14-Feb-2015,Francis,Archbishop emeritus of Valladolid,0,0,0,0,Spanish
+21-Apr-2025,NA,133,José Luis Lacunza Maestrojuán ,4,Panama[k],24-Feb-1944,1.2,0.0,81.2,10.1821,CP,14-Feb-2015,Francis,Bishop emeritus of David,0,0,0,0,Spanish
+21-Apr-2025,NA,134,Arlindo Gomes Furtado,3,Cape Verde,15-Nov-1949,0.0,4.6,75.4,8.4189,CP,19-Nov-2016,Francis,Bishop of Santiago de Cabo Verde,0,0,0,0,Portuguese
+21-Apr-2025,NA,135,Soane Patita Paini Mafi,4,Tonga,19-Dec-1961,0.0,16.7,63.3,8.4189,CP,19-Nov-2016,Francis,Bishop of Tonga,0,0,0,0,Tongan
+21-Apr-2025,NA,136,Luis Héctor Villalba,3,Argentina,11-Oct-1934,10.5,0.0,90.5,8.4189,CP,19-Nov-2016,Francis,Archbishop emeritus of Tucumán,0,0,0,0,Spanish
+21-Apr-2025,NA,137,Júlio Duarte Langa,3,Mozambique,27-Oct-1927,17.5,0.0,97.5,8.4189,CP,19-Nov-2016,Francis,Bishop emeritus of Xai-Xai,0,0,0,0,Portuguese
+21-Apr-2025,NA,138,Dieudonné Nzapalainga ,2,Central African Republic,14-Mar-1967,0.0,21.9,58.1,8.4189,CP,19-Nov-2016,Francis,Archbishop of Bangui,0,0,0,0,Sango
+21-Apr-2025,NA,139,Carlos Osoro Sierra,3,Spain,16-May-1945,0.0,0.1,79.9,8.4189,CP,19-Nov-2016,Francis,Archbishop emeritus of Madrid,0,0,0,0,Spanish
+21-Apr-2025,NA,140,Sérgio da Rocha,3,Brazil,21-Oct-1959,0.0,14.5,65.5,8.4189,CP,19-Nov-2016,Francis,Archbishop of São Salvador da Bahia,0,0,0,0,Portuguese
+21-Apr-2025,NA,141,Blase J. Cupich,3,United States,19-Mar-1949,0.0,3.9,76.1,8.4189,CP,19-Nov-2016,Francis,Archbishop of Chicago,0,0,0,0,English
+21-Apr-2025,NA,142,Patrick D'Rozario ,2,Bangladesh,1-Oct-1943,1.6,0.0,81.6,8.4189,CP,19-Nov-2016,Francis,Archbishop emeritus of Dhaka,0,0,0,0,Bengali
+21-Apr-2025,NA,143,Baltazar Enrique Porras Cardozo,4,Venezuela,10-Oct-1944,0.5,0.0,80.5,8.4189,CP,19-Nov-2016,Francis,Archbishop emeritus of Caracas,0,0,0,0,Spanish
+21-Apr-2025,NA,144,Jozef De Kesel,3,Belgium,17-Jun-1947,0.0,2.2,77.8,8.4189,CP,19-Nov-2016,Francis,Archbishop emeritus of Mechelen–Brussels,0,0,0,0,Dutch
+21-Apr-2025,NA,145,Maurice Piat ,2,Mauritius,19-Jul-1941,3.8,0.0,83.8,7.8138,CP,28-Jun-2017,Francis,Bishop emeritus of Port-Louis,0,0,0,0,French
+21-Apr-2025,NA,146,Carlos Aguiar Retes,3,Mexico,9-Jan-1950,0.0,4.7,75.3,7.8138,CP,28-Jun-2017,Francis,Archbishop of Mexico,0,0,0,0,Spanish
+21-Apr-2025,NA,147,John Ribat ,2,Papua New Guinea,9-Feb-1957,0.0,11.8,68.2,7.8138,CP,28-Jun-2017,Francis,Archbishop of Port Moresby,0,0,0,0,Motu
+21-Apr-2025,NA,148,Joseph W. Tobin ,3,United States,3-May-1952,0.0,7.0,73.0,7.8138,CP,28-Jun-2017,Francis,Archbishop of Newark,0,0,0,0,English
+21-Apr-2025,NA,149,Jean Zerbo,2,Mali,27-Dec-1943,1.3,0.0,81.3,7.8138,CP,28-Jun-2017,Francis,Archbishop emeritus of Bamako,0,0,0,0,Bambara
+21-Apr-2025,NA,150,Juan José Omella,3,Spain,21-Apr-1946,0.0,1.0,79.0,6.8145,CP,28-Jun-2018,Francis,Archbishop of Barcelona,0,0,0,0,Spanish
+21-Apr-2025,NA,151,Anders Arborelius ,2,Sweden,24-Sep-1949,0.0,4.4,75.6,6.8145,CP,28-Jun-2018,Francis,Bishop of Stockholm,0,0,0,0,Swedish
+21-Apr-2025,NA,152,Louis-Marie Ling Mangkhanekhoun,3,Laos,8-Apr-1944,1.0,0.0,81.0,6.8145,CP,28-Jun-2018,Francis,Apostolic Vicar emeritus of Vientiane,0,0,0,0,Lao
+21-Apr-2025,NA,153,Gregorio Rosa Chávez,3,El Salvador,3-Sep-1942,2.6,0.0,82.6,6.8145,CP,28-Jun-2018,Francis,Auxiliary Bishop emeritus of San Salvador,0,0,0,0,Spanish
+21-Apr-2025,NA,154,Angelo De Donatis,3,Italy,4-Jan-1954,0.0,8.7,71.3,6.8145,CP,28-Jun-2018,Francis,Major Penitentiary,0,0,0,0,Italian
+21-Apr-2025,NA,155,Joseph Coutts,2,Pakistan,21-Jul-1945,0.0,0.2,79.8,6.8145,CP,28-Jun-2018,Francis,Archbishop emeritus of Karachi,0,0,0,0,Urdu
+21-Apr-2025,NA,156,António Marto,2,Portugal,5-May-1947,0.0,2.0,78.0,6.8145,CP,28-Jun-2018,Francis,Bishop emeritus of Leiria–Fátima,0,0,0,0,Portuguese
+21-Apr-2025,NA,157,Pedro Barreto ,2,Peru,12-Feb-1944,1.2,0.0,81.2,6.8145,CP,28-Jun-2018,Francis,Archbishop emeritus of Huancayo,0,0,0,0,Spanish
+21-Apr-2025,NA,158,Désiré Tsarahazana,2,Madagascar,13-Jun-1954,0.0,9.1,70.9,5.5441,CP,5-Oct-2019,Francis,Archbishop of Toamasina,0,0,0,0,Malagasy
+21-Apr-2025,NA,159,Giuseppe Petrocchi,2,Italy,19-Aug-1948,0.0,3.3,76.7,5.5441,CP,5-Oct-2019,Francis,Archbishop emeritus of L'Aquila,0,0,0,0,Italian
+21-Apr-2025,NA,160,Thomas Aquino Manyo Maeda,4,Japan,3-Mar-1949,0.0,3.9,76.1,5.5441,CP,5-Oct-2019,Francis,Archbishop of Osaka–Takamatsu,0,0,0,0,Japanese
+21-Apr-2025,NA,161,Toribio Ticona Porco,3,Bolivia,25-Apr-1937,8.0,0.0,88.0,5.5441,CP,5-Oct-2019,Francis,Bishop Prelate emeritus of Corocoro,0,0,0,0,Aymara
+21-Apr-2025,NA,162,Ignatius Suharyo Hardjoatmodjo,3,Indonesia,9-Jul-1950,0.0,5.2,74.8,5.5441,CP,5-Oct-2019,Francis,Archbishop of Jakarta,0,0,0,0,Javanese
+21-Apr-2025,NA,163,Juan García Rodríguez,3,Cuba,11-Jul-1948,0.0,3.2,76.8,5.5441,CP,5-Oct-2019,Francis,Archbishop of San Cristóbal de la Habana,0,0,0,0,Spanish
+21-Apr-2025,NA,164,Fridolin Ambongo Besungu,3,Democratic Republic of the Congo,24-Jan-1960,0.0,14.8,65.2,5.5441,CP,5-Oct-2019,Francis,Archbishop of Kinshasa,0,1,0,0,Lingala
+21-Apr-2025,NA,165,Jean-Claude Hollerich ,2,Luxembourg,9-Aug-1958,0.0,13.3,66.7,5.5441,CP,5-Oct-2019,Francis,Archbishop of Luxembourg,0,0,0,0,Luxembourgish
+21-Apr-2025,NA,166,Álvaro Leonel Ramazzini Imeri,4,Guatemala,16-Jul-1947,0.0,2.2,77.8,4.3943,CP,28-Nov-2020,Francis,Bishop of Huehuetenango,0,0,0,0,Spanish
+21-Apr-2025,NA,167,Matteo Zuppi,2,Italy,11-Oct-1955,0.0,10.5,69.5,4.3943,CP,28-Nov-2020,Francis,Archbishop of Bologna,0,1,1,0.1163,Italian
+21-Apr-2025,NA,168,Cristóbal López Romero ,3,Morocco[l],19-May-1952,0.0,7.1,72.9,4.3943,CP,28-Nov-2020,Francis,Archbishop of Rabat,0,0,0,0,Spanish
+21-Apr-2025,NA,169,Sigitas Tamkevičius ,2,Lithuania,7-Nov-1938,6.5,0.0,86.5,4.3943,CP,28-Nov-2020,Francis,Archbishop emeritus of Kaunas,0,0,0,0,Lithuanian
+21-Apr-2025,NA,170,Antoine Kambanda,2,Rwanda,10-Nov-1958,0.0,13.6,66.4,4.3943,CP,28-Nov-2020,Francis,Archbishop of Kigali,0,0,0,0,Kinyarwanda
+21-Apr-2025,NA,171,Wilton Daniel Gregory,3,United States,7-Dec-1947,0.0,2.6,77.4,4.3943,CP,28-Nov-2020,Francis,Archbishop emeritus of Washington,0,0,0,0,English
+21-Apr-2025,NA,172,Jose Advincula ,2,Philippines,30-Mar-1952,0.0,6.9,73.1,2.6502,CP,27-Aug-2022,Francis,Archbishop of Manila,0,0,0,0,Hiligaynon
+21-Apr-2025,NA,173,Celestino Aós Braco,3,Chile[m],6-Apr-1945,0.0,0.0,80.0,2.6502,CP,27-Aug-2022,Francis,Archbishop emeritus of Santiago de Chile,0,0,0,0,Spanish
+21-Apr-2025,NA,174,Augusto Paolo Lojudice,3,Italy,1-Jul-1964,0.0,19.2,60.8,2.6502,CP,27-Aug-2022,Francis,Archbishop of Siena–Colle di Val d'Elsa–Montalcino and Bishop of Montepulciano–Chiusi–Pienza,0,0,0,0,Italian
+21-Apr-2025,NA,175,Felipe Arizmendi Esquivel,3,Mexico,1-May-1940,5.0,0.0,85.0,2.6502,CP,27-Aug-2022,Francis,Bishop emeritus of San Cristóbal de Las Casas,0,0,0,0,Spanish
+21-Apr-2025,NA,176,Jean-Marc Aveline,2,France,26-Dec-1958,0.0,13.7,66.3,2.6502,CP,27-Aug-2022,Francis,Archbishop of Marseille,0,0,0,0.0345,French
+21-Apr-2025,NA,177,Peter Okpaleke,2,Nigeria,1-Mar-1963,0.0,17.9,62.1,2.6502,CP,27-Aug-2022,Francis,Bishop of Ekwulobia,0,0,0,0,Igbo
+21-Apr-2025,NA,178,Leonardo Ulrich Steiner ,3,Brazil,6-Nov-1950,0.0,5.5,74.5,2.6502,CP,27-Aug-2022,Francis,Archbishop of Manaus,0,0,0,0,Portuguese
+21-Apr-2025,NA,179,Filipe Neri Ferrão,3,India,20-Jan-1953,0.0,7.8,72.2,2.6502,CP,27-Aug-2022,Francis,Archbishop of Goa and Daman and Patriarch of the East Indies,0,0,0,0,Konkani
+21-Apr-2025,NA,180,Robert W. McElroy,3,United States,5-Feb-1954,0.0,8.8,71.2,2.6502,CP,27-Aug-2022,Francis,Archbishop of Washington,0,0,0,0,English
+21-Apr-2025,NA,181,Virgílio do Carmo da Silva ,5,East Timor,27-Nov-1967,0.0,22.6,57.4,2.6502,CP,27-Aug-2022,Francis,Archbishop of Díli,0,0,0,0,Tetum
+21-Apr-2025,NA,182,Oscar Cantoni,2,Italy,1-Sep-1950,0.0,5.4,74.6,2.6502,CP,27-Aug-2022,Francis,Bishop of Como,0,0,0,0,Italian
+21-Apr-2025,NA,183,Anthony Poola,2,India,15-Nov-1961,0.0,16.6,63.4,2.6502,CP,27-Aug-2022,Francis,Archbishop of Hyderabad,0,0,0,0,Telugu
+21-Apr-2025,NA,184,Paulo Cezar Costa,3,Brazil,20-Jul-1967,0.0,22.2,57.8,2.6502,CP,27-Aug-2022,Francis,Archbishop of Brasília,0,0,0,0,Portuguese
+21-Apr-2025,NA,185,William Goh,2,Singapore,25-Jun-1957,0.0,12.2,67.8,2.6502,CP,27-Aug-2022,Francis,Archbishop of Singapore,0,0,0,0,English
+21-Apr-2025,NA,186,Adalberto Martínez Flores,3,Paraguay,8-Jul-1951,0.0,6.2,73.8,1.5578,CP,30-Sep-2023,Francis,Archbishop of Asunción,0,0,0,0,Spanish
+21-Apr-2025,NA,187,Giorgio Marengo ,2,Mongolia[n],7-Jun-1974,0.0,29.1,50.9,1.5578,CP,30-Sep-2023,Francis,Apostolic Prefect of Ulaanbaatar,0,0,0,0,Italian
+21-Apr-2025,NA,188,Jorge Enrique Jiménez Carvajal CJM,5,Colombia,29-Mar-1942,3.1,0.0,83.1,1.5578,CP,30-Sep-2023,Francis,Archbishop emeritus of Cartagena,0,0,0,0,Spanish
+21-Apr-2025,NA,189,Arrigo Miglio,2,Italy,18-Jul-1942,2.8,0.0,82.8,1.5578,CP,30-Sep-2023,Francis,Archbishop emeritus of Cagliari,0,0,0,0,Italian
+21-Apr-2025,NA,190,Pierbattista Pizzaballa,2,Jerusalem[o],21-Apr-1965,0.0,20.0,60.0,1.5578,CP,30-Sep-2023,Francis,Latin Patriarch of Jerusalem,0,0,0,0.0741,Italian
+21-Apr-2025,NA,191,Stephen Brislin,2,South Africa,24-Sep-1956,0.0,11.4,68.6,1.5578,CP,30-Sep-2023,Francis,Archbishop of Johannesburg,0,0,0,0,English
+21-Apr-2025,NA,192,Ángel Sixto Rossi ,3,Argentina,11-Aug-1958,0.0,13.3,66.7,1.5578,CP,30-Sep-2023,Francis,Archbishop of Córdoba,0,0,0,0,Spanish
+21-Apr-2025,NA,193,Luis José Rueda Aparicio,4,Colombia,3-Mar-1962,0.0,16.9,63.1,1.5578,CP,30-Sep-2023,Francis,Archbishop of Bogotá,0,0,0,0,Spanish
+21-Apr-2025,NA,194,Grzegorz Ryś,2,Poland,9-Feb-1964,0.0,18.8,61.2,1.5578,CP,30-Sep-2023,Francis,Archbishop of Łódź,0,0,0,0,Polish
+21-Apr-2025,NA,195,Stephen Ameyu Martin Mulla,4,South Sudan,10-Jan-1964,0.0,18.7,61.3,1.5578,CP,30-Sep-2023,Francis,Archbishop of Juba,0,0,0,0,Bari
+21-Apr-2025,NA,196,José Cobo Cano,3,Spain,20-Sep-1965,0.0,20.4,59.6,1.5578,CP,30-Sep-2023,Francis,Archbishop of Madrid,0,0,0,0,Spanish
+21-Apr-2025,NA,197,Protase Rugambwa,2,Tanzania,31-May-1960,0.0,15.1,64.9,1.5578,CP,30-Sep-2023,Francis,Archbishop of Tabora,0,0,0,0,Kiswahili
+21-Apr-2025,NA,198,Sebastian Francis,2,Malaysia,11-Nov-1951,0.0,6.6,73.4,1.5578,CP,30-Sep-2023,Francis,Bishop of Penang,0,0,0,0,English
+21-Apr-2025,NA,199,Stephen Chow Sau-yan ,3,"China
+(Hong Kong)[f]",7-Aug-1959,0.0,14.3,65.7,0.3696,CP,7-Dec-2024,Francis,Bishop of Hong Kong,0,0,0,0,Cantonese
+21-Apr-2025,NA,200,François-Xavier Bustillo ,2,France[p],23-Nov-1968,0.0,23.6,56.4,0.3696,CP,7-Dec-2024,Francis,Bishop of Ajaccio,0,0,0,0,French
+21-Apr-2025,NA,201,Américo Aguiar,2,Portugal,12-Dec-1973,0.0,28.6,51.4,0.3696,CP,7-Dec-2024,Francis,Bishop of Setúbal,0,0,0,0,Portuguese
+21-Apr-2025,NA,202,Diego Rafael Padrón Sánchez,4,Venezuela,17-May-1939,5.9,0.0,85.9,0.3696,CP,7-Dec-2024,Francis,Archbishop emeritus of Cumaná,0,0,0,0,Spanish
+21-Apr-2025,NA,203,Carlos Castillo Mattasoglio,3,Peru,28-Feb-1950,0.0,4.9,75.1,0.3696,CP,7-Dec-2024,Francis,Archbishop of Lima,0,0,0,0,Spanish
+21-Apr-2025,NA,204,Vicente Bokalic Iglic ,3,Argentina,11-Jun-1952,0.0,7.1,72.9,0.3696,CP,7-Dec-2024,Francis,Archbishop of Santiago del Estero,0,0,0,0,Spanish
+21-Apr-2025,NA,205,Luis Cabrera Herrera ,3,Ecuador,11-Oct-1955,0.0,10.5,69.5,0.3696,CP,7-Dec-2024,Francis,Archbishop of Guayaquil,0,0,0,0,Spanish
+21-Apr-2025,NA,206,Fernando Chomalí Garib,3,Chile,10-Mar-1957,0.0,11.9,68.1,0.3696,CP,7-Dec-2024,Francis,Archbishop of Santiago de Chile,0,0,0,0,Spanish
+21-Apr-2025,NA,207,Tarcisio Isao Kikuchi ,3,Japan,1-Nov-1958,0.0,13.5,66.5,0.3696,CP,7-Dec-2024,Francis,Archbishop of Tokyo,0,0,0,0,Japanese
+21-Apr-2025,NA,208,Pablo Virgilio David,3,Philippines,2-Mar-1959,0.0,13.9,66.1,0.3696,CP,7-Dec-2024,Francis,Bishop of Kalookan,0,0,0,0,Tagalog
+21-Apr-2025,NA,209,Ladislav Nemet ,2,Serbia[q],7-Sep-1956,0.0,11.4,68.6,0.3696,CP,7-Dec-2024,Francis,Archbishop of Belgrade,0,0,0,0,Serbian
+21-Apr-2025,NA,210,Jaime Spengler ,2,Brazil,6-Sep-1960,0.0,15.4,64.6,0.3696,CP,7-Dec-2024,Francis,Archbishop of Porto Alegre,0,0,0,0,Portuguese
+21-Apr-2025,NA,211,Ignace Bessi Dogbo,3,Ivory Coast,17-Aug-1961,0.0,16.3,63.7,0.3696,CP,7-Dec-2024,Francis,Archbishop of Abidjan,0,0,0,0,French
+21-Apr-2025,NA,212,Jean-Paul Vesco ,2,Algeria[r],10-Mar-1962,0.0,16.9,63.1,0.3696,CP,7-Dec-2024,Francis,Archbishop of Algiers,0,0,0,0,French
+21-Apr-2025,NA,213,Dominique Mathieu ,2,Iran[s],13-Jun-1963,0.0,18.1,61.9,0.3696,CP,7-Dec-2024,Francis,Archbishop of Tehran–Isfahan,0,0,0,0,French
+21-Apr-2025,NA,214,Roberto Repole,2,Italy,29-Jan-1967,0.0,21.8,58.2,0.3696,CP,7-Dec-2024,Francis,Archbishop of Turin and Bishop of Susa,0,0,0,0,Italian
+21-Apr-2025,NA,215,Baldassare Reina,2,Italy,26-Nov-1970,0.0,25.6,54.4,0.3696,CP,7-Dec-2024,Francis,Vicar General for Rome and Archpriest of the Papal Basilica of Saint John Lateran,0,0,0,0,Italian
+21-Apr-2025,NA,216,Frank Leo,2,Canada,30-Jun-1971,0.0,26.2,53.8,0.3696,CP,7-Dec-2024,Francis,Archbishop of Toronto,0,0,0,0,English
+21-Apr-2025,NA,217,Mykola Bychok ,2,Australia[t],13-Feb-1980,0.0,34.8,45.2,0.3696,CP,7-Dec-2024,Francis,"Eparch of Saints Peter and Paul of Melbourne
+(Ukrainian Greek Church)",0,0,0,0,Ukrainian
+21-Apr-2025,NA,218,Domenico Battaglia,2,Italy,20-Jan-1963,0.0,17.7,62.3,0.3696,CP,7-Dec-2024,Francis,Archbishop of Naples,0,0,0,0,Italian
+21-Apr-2025,NA,219,Dominique Mamberti,2,France,7-Mar-1952,0.0,6.9,73.1,10.1821,CD,14-Feb-2015,Francis,Prefect of the Supreme Tribunal of the Apostolic Signatura[c],0,0,0,0,French
+21-Apr-2025,NA,220,Mario Zenari,2,Italy,5-Jan-1946,0.0,0.7,79.3,8.4189,CD,19-Nov-2016,Francis,Apostolic Nuncio to Syria,0,0,0,0,Italian
+21-Apr-2025,NA,221,Kevin Farrell,2,United States[u],2-Sep-1947,0.0,2.4,77.6,8.4189,CD,19-Nov-2016,Francis,"Prefect of the Dicastery for the Laity, Family and Life[c] and Camerlengo of the Holy Roman Church",0,0,0,0,English
+21-Apr-2025,NA,222,Ernest Simoni,2,Albania,18-Oct-1928,16.5,0.0,96.5,8.4189,CD,19-Nov-2016,Francis,Priest of the Archdiocese of Shkodër–Pult[v],0,0,0,0,Albanian
+21-Apr-2025,NA,223,Luis Ladaria Ferrer ,3,Spain,19-Apr-1944,1.0,0.0,81.0,6.8145,CD,28-Jun-2018,Francis,Prefect emeritus of the Dicastery for the Doctrine of the Faith,0,0,0,0,Spanish
+21-Apr-2025,NA,224,Giovanni Angelo Becciu,3,Italy,2-Jun-1948,0.0,3.1,76.9,6.8145,CD,28-Jun-2018,Francis,Prefect emeritus of the Congregation for the Causes of Saints,0,0,0,0,Italian
+21-Apr-2025,NA,225,Konrad Krajewski,2,Poland,25-Nov-1963,0.0,18.6,61.4,6.8145,CD,28-Jun-2018,Francis,Almoner of His Holiness,0,0,0,0,Polish
+21-Apr-2025,NA,226,Aquilino Bocos Merino ,3,Spain,17-May-1938,6.9,0.0,86.9,6.8145,CD,28-Jun-2018,Francis,Superior General emeritus of the Missionary Sons of the Immaculate Heart of Mary,0,0,0,0,Spanish
+21-Apr-2025,NA,227,José Tolentino de Mendonça,4,Portugal,15-Dec-1965,0.0,20.7,59.3,5.5441,CD,5-Oct-2019,Francis,Prefect of the Dicastery for Culture and Education[c],0,0,0,0,Portuguese
+21-Apr-2025,NA,228,Michael Czerny ,2,Canada[x],18-Jul-1946,0.0,1.2,78.8,5.5441,CD,5-Oct-2019,Francis,Prefect of the Dicastery for Promoting Integral Human Development[c],0,0,0,0,Czech
+21-Apr-2025,NA,229,Michael Fitzgerald ,2,United Kingdom,17-Aug-1937,7.7,0.0,87.7,5.5441,CD,5-Oct-2019,Francis,Apostolic Nuncio emeritus to Egypt,0,0,0,0,English
+21-Apr-2025,NA,230,Mario Grech,2,Malta,20-Feb-1957,0.0,11.8,68.2,4.3943,CD,28-Nov-2020,Francis,Secretary-General of the Synod of Bishops,0,0,0,0,Maltese
+21-Apr-2025,NA,231,Marcello Semeraro,2,Italy,22-Dec-1947,0.0,2.7,77.3,4.3943,CD,28-Nov-2020,Francis,Prefect of the Dicastery for the Causes of Saints[c],0,0,0,0,Italian
+21-Apr-2025,NA,232,Mauro Gambetti ,2,Italy,27-Oct-1965,0.0,20.5,59.5,4.3943,CD,28-Nov-2020,Francis,"Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter and President of the Fabric of Saint Peter",0,0,0,0,Italian
+21-Apr-2025,NA,233,Silvano Maria Tomasi ,3,Italy,12-Oct-1940,4.5,0.0,84.5,4.3943,CD,28-Nov-2020,Francis,Special Delegate to the Sovereign Military Order of Malta,0,0,0,0,Italian
+21-Apr-2025,NA,234,Raniero Cantalamessa ,2,Italy,22-Jul-1934,10.7,0.0,90.7,4.3943,CD,28-Nov-2020,Francis,Preacher emeritus of the Papal Household[v],0,0,0,0,Italian
+21-Apr-2025,NA,235,Enrico Feroci,2,Italy,27-Aug-1940,4.6,0.0,84.6,4.3943,CD,28-Nov-2020,Francis,"Pastor of the Shrine of Our Lady of Divine Love in Castel di Leva, Rome",0,0,0,0,Italian
+21-Apr-2025,NA,236,Arthur Roche,2,United Kingdom,6-Mar-1950,0.0,4.9,75.1,2.6502,CD,27-Aug-2022,Francis,Prefect of the Dicastery for Divine Worship and the Discipline of the Sacraments[c],0,0,0,0,English
+21-Apr-2025,NA,237,Lazarus You Heung-sik,3,South Korea,17-Nov-1951,0.0,6.6,73.4,2.6502,CD,27-Aug-2022,Francis,Prefect of the Dicastery for the Clergy[c],0,0,0,0,Korean
+21-Apr-2025,NA,238,Fernando Vérgez Alzaga ,3,Spain,1-Mar-1945,0.1,0.0,80.1,2.6502,CD,27-Aug-2022,Francis,President emeritus of the Pontifical Commission for Vatican City State,0,0,0,0,Spanish
+21-Apr-2025,NA,239,Gianfranco Ghirlanda ,2,Italy,5-Jul-1942,2.8,0.0,82.8,2.6502,CD,27-Aug-2022,Francis,Patron of the Sovereign Military Order of Malta[v],0,0,0,0,Italian
+21-Apr-2025,NA,240,Fortunato Frezza,2,Italy,6-Feb-1942,3.2,0.0,83.2,2.6502,CD,27-Aug-2022,Francis,Canon of the Chapter of the Papal Basilica of Saint Peter,0,0,0,0,Italian
+21-Apr-2025,NA,241,Claudio Gugerotti,2,Italy,7-Oct-1955,0.0,10.5,69.5,1.5578,CD,30-Sep-2023,Francis,Prefect of the Dicastery for the Eastern Churches[c],0,0,0,0.0345,Italian
+21-Apr-2025,NA,242,Víctor Manuel Fernández,3,Argentina,18-Jul-1962,0.0,17.2,62.8,1.5578,CD,30-Sep-2023,Francis,Prefect of the Dicastery for the Doctrine of the Faith[c],0,0,0,0,Spanish
+21-Apr-2025,NA,243,Emil Paul Tscherrig,3,Switzerland,3-Feb-1947,0.0,1.8,78.2,1.5578,CD,30-Sep-2023,Francis,Apostolic Nuncio emeritus to Italy and San Marino,0,0,0,0,German
+21-Apr-2025,NA,244,Christophe Pierre,2,France,30-Jan-1946,0.0,0.8,79.2,1.5578,CD,30-Sep-2023,Francis,Apostolic Nuncio to the United States,0,0,0,0,French
+21-Apr-2025,NA,245,Ángel Fernández Artime ,3,Spain,21-Aug-1960,0.0,15.3,64.7,1.5578,CD,30-Sep-2023,Francis,Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life,0,0,0,0,Spanish
+21-Apr-2025,NA,246,Agostino Marchetto,2,Italy,28-Aug-1940,4.6,0.0,84.6,1.5578,CD,30-Sep-2023,Francis,Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People,0,0,0,0,Italian
+21-Apr-2025,NA,247,Luis Pascual Dri ,3,Argentina,17-Apr-1927,18.0,0.0,98.0,1.5578,CD,30-Sep-2023,Francis,"Confessor at the Shrine of Our Lady of Pompei [es], Buenos Aires",0,0,0,0,Spanish
+21-Apr-2025,NA,248,Angelo Acerbi,2,Italy,23-Sep-1925,19.6,0.0,99.6,0.3696,CD,7-Dec-2024,Francis,Apostolic Nuncio emeritus,0,0,0,0,Italian
+21-Apr-2025,NA,249,Rolandas Makrickas,2,Lithuania,31-Jan-1972,0.0,26.8,53.2,0.3696,CD,7-Dec-2024,Francis,Coadjutor Archpriest of the Papal Basilica of Saint Mary Major,0,0,0,0,Lithuanian
+21-Apr-2025,NA,250,Timothy Radcliffe ,2,United Kingdom,22-Aug-1945,0.0,0.3,79.7,0.3696,CD,7-Dec-2024,Francis,Master emeritus of the Order of Preachers,0,0,0,0,English
+21-Apr-2025,NA,251,Fabio Baggio ,2,Italy,15-Jan-1965,0.0,19.7,60.3,0.3696,CD,7-Dec-2024,Francis,Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoting Integral Human Development,0,0,0,0,Italian
+21-Apr-2025,NA,252,George Koovakad,2,India,11-Aug-1973,0.0,28.3,51.7,0.3696,CD,7-Dec-2024,Francis,"Prefect of the Dicastery for Interreligious Dialogue[c]
+(Syro-Malabar Church)",0,0,0,0,Malayalam
+21-Apr-2025,NA,NA,Donald Trump,2,United States,14-Jun-1946,0.0,1.1,78.9,0.0000,NA,NA,NA,US President,0,0,0,0,English

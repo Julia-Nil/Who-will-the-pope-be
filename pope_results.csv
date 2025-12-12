@@ -1,0 +1,147 @@
+"name","country_serving","age_at_conclave","position","predicted_prob"
+"Odilo Scherer","Brazil",75.6,"Archbishop of São Paulo",0.154801095257291
+"Robert Francis Prevost ","United States",69.6,"Prefect of the Dicastery for Bishops[c]",0.0849741451054445
+"Louis Raphaël I Sako","Iraq",76.8,"Patriarch of Baghdad
+(Chaldean Church)",0.0784226545779522
+"Vinko Puljić","Bosnia and Herzegovina",79.6,"Archbishop emeritus of Vrhbosna",0.0130661494646925
+"Fernando Filoni","Italy",79,"Grand Master of the Order of the Holy Sepulchre",0.0112986884317131
+"Péter Erdő","Hungary",72.8,"Archbishop of Esztergom–Budapest",0.00746178799718964
+"Philippe Barbarin","France",74.5,"Archbishop emeritus of Lyon",0.00563959827310806
+"Josip Bozanić","Croatia",76.1,"Archbishop emeritus of Zagreb",0.00457694089869429
+"Antonio Cañizares Llovera","Spain",79.5,"Archbishop emeritus of Valencia",0.00405232868782142
+"Francisco Robles Ortega","Mexico",76.1,"Archbishop of Guadalajara",0.00343513081973233
+"Soane Patita Paini Mafi","Tonga",63.3,"Bishop of Tonga",0.00224930198923634
+"Raymond Leo Burke","United States",76.8,"Patron emeritus of the Sovereign Military Order of Malta",0.00173297125248474
+"João Braz de Aviz","Brazil",78,"Prefect emeritus of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life",0.00167074636886509
+"Virgílio do Carmo da Silva ","East Timor",57.4,"Archbishop of Díli",0.00138459555612054
+"Daniel DiNardo","United States",75.9,"Archbishop emeritus of Galveston–Houston",0.00111769067645702
+"Reinhard Marx","Germany",71.6,"Archbishop of Munich and Freising and Coordinator of the Council for the Economy[c]",0.000989757410912668
+"Stanisław Ryłko","Poland",79.8,"Archpriest of the Papal Basilica of Saint Mary Major",0.000831792001913246
+"Baselios Cleemis","India",65.9,"Major Archbishop of Trivandrum
+(Syro-Malankara Church)",0.000829551674064541
+"Kurt Koch","Switzerland",75.1,"Prefect of the Dicastery for Promoting Christian Unity[c]",0.000756177856627929
+"Rainer Woelki","Germany",68.7,"Archbishop of Cologne",0.00063644227623497
+"Dieudonné Nzapalainga ","Central African Republic",58.1,"Archbishop of Bangui",0.000578784913191217
+"Timothy M. Dolan","United States",75.2,"Archbishop of New York",0.000568405566236777
+"Kazimierz Nycz","Poland",75.2,"Archbishop emeritus of Warsaw",0.000541837462627228
+"John Njue","Kenya",79.3,"Archbishop emeritus of Nairobi",0.000516327875117033
+"Wim Eijk","Netherlands",71.8,"Archbishop of Utrecht",0.00042430619111665
+"Gérald Lacroix ","Canada",67.7,"Archbishop of Quebec",0.000403972304409763
+"James Michael Harvey","United States",75.5,"Archpriest of the Papal Basilica of Saint Paul Outside the Walls",0.000402982475518951
+"Sérgio da Rocha","Brazil",65.5,"Archbishop of São Salvador da Bahia",0.000370252924981532
+"Malcolm Ranjith","Sri Lanka",77.4,"Archbishop of Colombo",0.000333773069501274
+"Chibly Langlois","Haiti",66.4,"Bishop of Les Cayes",0.000306923158512868
+"Orani João Tempesta ","Brazil",74.8,"Archbishop of São Sebastião do Rio de Janeiro",0.000274098307462907
+"Gerhard Ludwig Müller","Germany",77.3,"Prefect emeritus of the Congregation for the Doctrine of the Faith",0.000217834768075678
+"Daniel Sturla ","Uruguay",65.8,"Archbishop of Montevideo",0.000204692714564713
+"Mario Aurelio Poli","Argentina",77.4,"Archbishop emeritus of Buenos Aires",0.000148112158382453
+"Thomas Collins","Canada",78.3,"Archbishop emeritus of Toronto",0.000131344411971837
+"Giorgio Marengo ","Mongolia[n]",50.9,"Apostolic Prefect of Ulaanbaatar",0.000120930751339727
+"Paulo Cezar Costa","Brazil",57.8,"Archbishop of Brasília",0.000118469525666669
+"Giuseppe Betori","Italy",78.2,"Archbishop emeritus of Florence",0.000114498212299001
+"Augusto Paolo Lojudice","Italy",60.8,"Archbishop of Siena–Colle di Val d'Elsa–Montalcino and Bishop of Montepulciano–Chiusi–Pienza",0.000110846105205101
+"Berhaneyesus Demerew Souraphiel ","Ethiopia",76.8,"Archbishop of Addis Abeba
+(Ethiopian Church)",0.000108875426517946
+"George Alencherry","India",80,"Major Archbishop emeritus of Ernakulam–Angamaly
+(Syro-Malabar Church)",9.90910173693057e-05
+"Stephen Ameyu Martin Mulla","South Sudan",61.3,"Archbishop of Juba",9.5286933343014e-05
+"Fridolin Ambongo Besungu","Democratic Republic of the Congo",65.2,"Archbishop of Kinshasa",9.39527166396346e-05
+"Charles Maung Bo ","Myanmar",76.5,"Archbishop of Yangon",8.89104277202938e-05
+"Leopoldo Brenes","Nicaragua",76.1,"Archbishop of Managua",8.16951110532717e-05
+"Luis José Rueda Aparicio","Colombia",63.1,"Archbishop of Bogotá",7.42735136410473e-05
+"Arlindo Gomes Furtado","Cape Verde",75.4,"Bishop of Santiago de Cabo Verde",7.24248474255328e-05
+"Mykola Bychok ","Australia[t]",45.2,"Eparch of Saints Peter and Paul of Melbourne
+(Ukrainian Greek Church)",7.17963515420134e-05
+"Joseph W. Tobin ","United States",73,"Archbishop of Newark",5.37878251196412e-05
+"Angelo De Donatis","Italy",71.3,"Major Penitentiary",5.16465085621519e-05
+"Américo Aguiar","Portugal",51.4,"Bishop of Setúbal",4.9021507265193e-05
+"John Ribat ","Papua New Guinea",68.2,"Archbishop of Port Moresby",4.78789029207684e-05
+"Vincent Nichols","United Kingdom",79.4,"Archbishop of Westminster",4.50035262308457e-05
+"Blase J. Cupich","United States",76.1,"Archbishop of Chicago",4.37640960936386e-05
+"José Cobo Cano","Spain",59.6,"Archbishop of Madrid",4.15398138791257e-05
+"Thomas Aquino Manyo Maeda","Japan",76.1,"Archbishop of Osaka–Takamatsu",4.13408257556423e-05
+"Jean-Pierre Kutwa","Ivory Coast",79.3,"Archbishop emeritus of Abidjan",3.92309513110735e-05
+"Carlos Aguiar Retes","Mexico",75.3,"Archbishop of Mexico",3.80016903681304e-05
+"Manuel Clemente","Portugal",76.8,"Patriarch emeritus of Lisbon",3.77307986518953e-05
+"José Tolentino de Mendonça","Portugal",59.3,"Prefect of the Dicastery for Culture and Education[c]",3.37487809259589e-05
+"John Dew","New Zealand",77,"Archbishop emeritus of Wellington",3.26730013512418e-05
+"Kriengsak Kovitvanit","Thailand",75.8,"Archbishop emeritus of Bangkok",3.18439183382062e-05
+"Philippe Ouédraogo","Burkina Faso",79.3,"Archbishop emeritus of Ouagadougou",2.70059626055825e-05
+"Jozef De Kesel","Belgium",77.8,"Archbishop emeritus of Mechelen–Brussels",2.67830000457624e-05
+"Peter Okpaleke","Nigeria",62.1,"Bishop of Ekwulobia",2.41352636377374e-05
+"Carlos Osoro Sierra","Spain",79.9,"Archbishop emeritus of Madrid",2.30250610981804e-05
+"Jean-Claude Hollerich ","Luxembourg",66.7,"Archbishop of Luxembourg",2.18373654272662e-05
+"Álvaro Leonel Ramazzini Imeri","Guatemala",77.8,"Bishop of Huehuetenango",2.01623932909428e-05
+"François-Xavier Bustillo ","France[p]",56.4,"Bishop of Ajaccio",1.93341050442188e-05
+"Antoine Kambanda","Rwanda",66.4,"Archbishop of Kigali",1.66261851123925e-05
+"Francesco Montenegro","Italy",78.9,"Archbishop emeritus of Agrigento",1.64324419112329e-05
+"Ignatius Suharyo Hardjoatmodjo","Indonesia",74.8,"Archbishop of Jakarta",1.58101450770799e-05
+"Cristóbal López Romero ","Morocco[l]",72.9,"Archbishop of Rabat",1.56452127088152e-05
+"Juan José Omella","Spain",79,"Archbishop of Barcelona",1.40174517173372e-05
+"Frank Leo","Canada",53.8,"Archbishop of Toronto",1.39559757973991e-05
+"Désiré Tsarahazana","Madagascar",70.9,"Archbishop of Toamasina",1.37951845067743e-05
+"Anthony Poola","India",63.4,"Archbishop of Hyderabad",1.36577110596789e-05
+"Baldassare Reina","Italy",54.4,"Vicar General for Rome and Archpriest of the Papal Basilica of Saint John Lateran",1.30696509645039e-05
+"Ángel Sixto Rossi ","Argentina",66.7,"Archbishop of Córdoba",1.26853991860379e-05
+"Grzegorz Ryś","Poland",61.2,"Archbishop of Łódź",1.10753527460596e-05
+"Robert W. McElroy","United States",71.2,"Archbishop of Washington",1.04886584520118e-05
+"Juan García Rodríguez","Cuba",76.8,"Archbishop of San Cristóbal de la Habana",1.01274930374524e-05
+"Stephen Chow Sau-yan ","China
+(Hong Kong)[f]",65.7,"Bishop of Hong Kong",9.95848197940633e-06
+"Filipe Neri Ferrão","India",72.2,"Archbishop of Goa and Daman and Patriarch of the East Indies",9.07988646271272e-06
+"Anders Arborelius ","Sweden",75.6,"Bishop of Stockholm",8.53472089480645e-06
+"Ignace Bessi Dogbo","Ivory Coast",63.7,"Archbishop of Abidjan",7.87566685038737e-06
+"Roberto Repole","Italy",58.2,"Archbishop of Turin and Bishop of Susa",6.52562261511729e-06
+"Leonardo Ulrich Steiner ","Brazil",74.5,"Archbishop of Manaus",6.0880063073858e-06
+"Pablo Virgilio David","Philippines",66.1,"Bishop of Kalookan",5.74887876257882e-06
+"Tarcisio Isao Kikuchi ","Japan",66.5,"Archbishop of Tokyo",5.59961771655715e-06
+"Wilton Daniel Gregory","United States",77.4,"Archbishop emeritus of Washington",5.52223663247537e-06
+"William Goh","Singapore",67.8,"Archbishop of Singapore",5.18042425831316e-06
+"Protase Rugambwa","Tanzania",64.9,"Archbishop of Tabora",4.57484730374258e-06
+"Fernando Chomalí Garib","Chile",68.1,"Archbishop of Santiago de Chile",4.30827583572918e-06
+"Adalberto Martínez Flores","Paraguay",73.8,"Archbishop of Asunción",4.30102767082454e-06
+"Giuseppe Petrocchi","Italy",76.7,"Archbishop emeritus of L'Aquila",4.18727747266793e-06
+"António Marto","Portugal",78,"Bishop emeritus of Leiria–Fátima",4.09955343603274e-06
+"Jose Advincula ","Philippines",73.1,"Archbishop of Manila",3.6083384107546e-06
+"Luis Cabrera Herrera ","Ecuador",69.5,"Archbishop of Guayaquil",3.44762644477895e-06
+"Dominique Mathieu ","Iran[s]",61.9,"Archbishop of Tehran–Isfahan",3.32287765790932e-06
+"George Koovakad","India",51.7,"Prefect of the Dicastery for Interreligious Dialogue[c]
+(Syro-Malabar Church)",3.20734211906888e-06
+"Joseph Coutts","Pakistan",79.8,"Archbishop emeritus of Karachi",3.03256284155849e-06
+"Stephen Brislin","South Africa",68.6,"Archbishop of Johannesburg",3.02595018534019e-06
+"Konrad Krajewski","Poland",61.4,"Almoner of His Holiness",2.89803452416374e-06
+"Rolandas Makrickas","Lithuania",53.2,"Coadjutor Archpriest of the Papal Basilica of Saint Mary Major",2.79423744742258e-06
+"Jean-Paul Vesco ","Algeria[r]",63.1,"Archbishop of Algiers",2.76568484068464e-06
+"Celestino Aós Braco","Chile[m]",80,"Archbishop emeritus of Santiago de Chile",2.68285047370035e-06
+"Mauro Gambetti ","Italy",59.5,"Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter and President of the Fabric of Saint Peter",2.51892596098462e-06
+"Domenico Battaglia","Italy",62.3,"Archbishop of Naples",2.36470920213608e-06
+"Jaime Spengler ","Brazil",64.6,"Archbishop of Porto Alegre",2.28666234700429e-06
+"Víctor Manuel Fernández","Argentina",62.8,"Prefect of the Dicastery for the Doctrine of the Faith[c]",1.99651840667691e-06
+"Vicente Bokalic Iglic ","Argentina",72.9,"Archbishop of Santiago del Estero",1.86217095662018e-06
+"Robert Sarah","Guinea",79.8,"Prefect emeritus of the Congregation for Divine Worship and the Discipline of the Sacraments",1.84729293677176e-06
+"Oscar Cantoni","Italy",74.6,"Bishop of Como",1.59251268045829e-06
+"Carlos Castillo Mattasoglio","Peru",75.1,"Archbishop of Lima",1.27335372907758e-06
+"Ángel Fernández Artime ","Spain",64.7,"Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life",1.1747238665495e-06
+"Ladislav Nemet ","Serbia[q]",68.6,"Archbishop of Belgrade",1.09770568284848e-06
+"Sebastian Francis","Malaysia",73.4,"Bishop of Penang",8.16788159295046e-07
+"Fabio Baggio ","Italy",60.3,"Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoting Integral Human Development",6.23417689302745e-07
+"Mario Grech","Malta",68.2,"Secretary-General of the Synod of Bishops",5.05861704412562e-07
+"Dominique Mamberti","France",73.1,"Prefect of the Supreme Tribunal of the Apostolic Signatura[c]",4.88456752379404e-07
+"Giovanni Angelo Becciu","Italy",76.9,"Prefect emeritus of the Congregation for the Causes of Saints",4.41311085325345e-07
+"Lazarus You Heung-sik","South Korea",73.4,"Prefect of the Dicastery for the Clergy[c]",3.45119183408962e-07
+"Kevin Farrell","United States[u]",77.6,"Prefect of the Dicastery for the Laity, Family and Life[c] and Camerlengo of the Holy Roman Church",1.63162105876075e-07
+"Jean-Marc Aveline","France",66.3,"Archbishop of Marseille",1.44894378310564e-07
+"Mario Zenari","Italy",79.3,"Apostolic Nuncio to Syria",1.23091481024528e-07
+"Emil Paul Tscherrig","Switzerland",78.2,"Apostolic Nuncio emeritus to Italy and San Marino",9.18394718456047e-08
+"Arthur Roche","United Kingdom",75.1,"Prefect of the Dicastery for Divine Worship and the Discipline of the Sacraments[c]",8.56237847985882e-08
+"Marcello Semeraro","Italy",77.3,"Prefect of the Dicastery for the Causes of Saints[c]",8.02690059153378e-08
+"Michael Czerny ","Canada[x]",78.8,"Prefect of the Dicastery for Promoting Integral Human Development[c]",7.500492488957e-08
+"Christophe Pierre","France",79.2,"Apostolic Nuncio to the United States",2.35487795081241e-08
+"Timothy Radcliffe ","United Kingdom",79.7,"Master emeritus of the Order of Preachers",1.45056325337928e-08
+"Claudio Gugerotti","Italy",69.5,"Prefect of the Dicastery for the Eastern Churches[c]",2.41147461861522e-09
+"Pierbattista Pizzaballa","Jerusalem[o]",60,"Latin Patriarch of Jerusalem",1.53903668446616e-09
+"Peter Turkson","Ghana",76.5,"Chancellor of the Pontifical Academy of Sciences and the Pontifical Academy of Social Sciences",6.91848871860021e-11
+"Luis Antonio Tagle","Philippines",67.8,"Pro-Prefect of the Dicastery for Evangelization[c]",2.03202741457869e-11
+"Matteo Zuppi","Italy",69.5,"Archbishop of Bologna",4.64738332240851e-12
+"Pietro Parolin","Italy",70.3,"Secretary of State of His Holiness[c]",2.22044604925031e-16
+"Donald Trump","United States",78.9,"US President",NA

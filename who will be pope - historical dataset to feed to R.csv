@@ -1,0 +1,372 @@
+conclave_date,pope_name,rank,name,name_words,country_serving,born,age_at_conclave,years_served_as_cardinal,cardinal_type,date_created,creator_pope,position,votes_received_in_prev_conclave,newsweek_choice,betting_market,first_language,elected
+29-May-1724,Benedict XIII,1,Pierfrancesco Orsini,2,Italy,2-Feb-1649,75.3155,52.2628,CB,22-Feb-1672,Clement X,Archbishop of Benevento,0,0,0,Italian,yes
+12-Jul-1730,Clement XII,1,Lorenzo Corsini,2,Italy,7-Apr-1652,78.2587,24.1533,CB,17-May-1706,Clement XI,Archbishop of Nicomedia,0,0,0,Italian,yes
+17-Aug-1740,Benedict XIV,23,Prospero Lorenzo Lambertini,3,Italy,31-Mar-1675,65.3799,12.2984,CP,30-Apr-1728,Benedict XIII,Archbishop of Ancona e Numana,0,0,0,Italian,yes
+6-Jul-1758,Clement XIII,25,Carlo della Torre di Rezzonico ,5,Italy,7-Mar-1693,65.3279,20.5421,CP,20-Dec-1737,Clement XII,Bishop of Padua,0,0,0,Italian,yes
+19-May-1769,Clement XIV,50,Giovanni Vincenzo Antonio Ganganelli,4,Italy,31-Oct-1705,63.5483,9.6509,CP,24-Sep-1759,Clement XIII,NA,0,0,0,Italian,yes
+15-Feb-1775,Pius VI,35,Giovanni Angelo Onofrio Melchiorre Natale Antonio Braschi,7,Italy,25-Dec-1717,57.1417,1.8070,CP,26-Apr-1773,Clement XIV,General Treasurer of the Apostolic Camera,0,0,0,Italian,yes
+14-Mar-1800,Pius VII,50,Barnaba Niccolò Maria Luigi Chiaramonti,5,Italy,14-Aug-1742,57.5797,15.0746,CP,14-Feb-1785,Pius VI,Abbot of San Paolo fuori le Mura,0,0,0,Italian,yes
+28-Sep-1823,Leo XII,8,Annibale Francesco Clemente Melchiorre Girolamo Nicola della Genga,8,Italy,22-Aug-1760,63.0965,7.5565,CP,8-Mar-1816,Pius VII,Archbishop of Senigallia,0,0,0,Italian,yes
+31-Mar-1829,Pius VIII,9,Francesco Saverio Maria Felice Castiglioni,5,Italy,20-Nov-1761,67.3566,13.0623,CP,8-Mar-1816,Pius VII,Prefect of the Congregation of the Index,0,0,0,Italian,yes
+2-Feb-1831,Gregory XVI,45,Bartolomeo Alberto Cappellari,3,Italy,18-Sep-1765,65.3717,5.8700,CP,21-Mar-1825,Leo XII,Prefect of the Congregation for Propagation of the Faith,0,0,0,Italian,yes
+16-Jun-1846,Pius IX,45,Giovanni Maria Battista Pietro Pellegrino Isidoro Mastai-Ferretti,7,Italy,13-May-1792,54.0890,5.5031,CP,14-Dec-1840,Gregory XVI,Archbishop of Spoleto,0,0,0,Italian,yes
+20-Feb-1878,Leo XIII,5,Gioacchino Vincenzo Raffaele Luigi Pecci,5,Italy,2-Mar-1810,67.9726,24.1725,CP,19-Dec-1853,Pius IX,Archbishop-Bishop of Perugia ,0,0,0,Italian,yes
+4-Aug-1903,Pius X,27,Giuseppe Melchiorre Sarto,3,Italy,2-Jun-1835,68.1697,10.1410,CP,12-Jun-1893,Leo XIII,Patriarch of Venice,0,0,0,Italian,yes
+3-Sep-1914,Benedict XV,62,Giacomo Paolo Giovanni Battista della Chiesa,6,Italy,21-Nov-1854,59.7810,0.2765,CP,25-May-1914,Pius X,Archbishop of Bologna,0,0,0,Italian,yes
+6-Feb-1922,Pius XI,53,Ambrogio Damiano Achille Ratti,4,Italy,31-May-1857,64.6845,0.6516,CP,13-Jun-1921,Benedict XV,Archbishop of Milan,0,0,0,Italian,yes
+2-Mar-1939,Pius XII,20,Eugenio Maria Giuseppe Giovanni Pacelli ,5,Italy,2-Mar-1876,62.9952,9.2074,CP,16-Dec-1929,Pius XI,Cardinal Secretary of State,0,0,0,Italian,yes
+28-Oct-1958,John XXIII,11,Angelo Giuseppe Roncalli ,3,Italy,25-Nov-1881,76.9199,5.7906,CP,12-Jan-1953,Pius XII,Patriarch of Venice,0,0,0,Italian,yes
+21-Jun-1963,Paul VI,23,Giovanni Battista Enrico Antonio Maria Montini ,6,Italy,26-Sep-1897,65.7303,4.5147,CP,15-Dec-1958,John XXIII,Archbishop of Milan,0,0,0,Italian,yes
+28-Feb-2013,NA,1,Giovanni Battista Re,3,Italy,30-Jan-1934,79.0801,12.0192,CB,21 February 2001,John Paul II,Prefect emeritus of the Congregation for Bishops,0,0,0,Italian,no
+28-Feb-2013,NA,2,Tarcisio Bertone ,2,Italy,2-Dec-1934,78.2423,9.3580,CB,21 October 2003,John Paul II,Secretary of State and Camerlengo of the Holy Roman Church,0,0,0.16,Italian,no
+28-Feb-2013,NA,3,Antonios Naguib,2,Egypt,18-Mar-1935,77.9521,2.2752,CB,20 November 2010,Benedict XVI,"Patriarch emeritus of Alexandria
+(Coptic Church)",0,0,0,Arabic,no
+28-Feb-2013,NA,4,Béchara Boutros Raï ,3,Lebanon,25-Feb-1940,73.0103,0.2628,CB,24 November 2012,Benedict XVI,"Patriarch of Antioch
+(Maronite Church)",0,0,0,Arabic,no
+28-Feb-2013,NA,5,Godfried Danneels,2,Belgium,4-Jun-1933,79.7372,30.0726,CP,2 February 1983,John Paul II,Archbishop emeritus of Mechelen–Brussels,0,0,0,Dutch,no
+28-Feb-2013,NA,6,Joachim Meisner,2,Germany,25-Dec-1933,79.1786,30.0726,CP,2 February 1983,John Paul II,Archbishop of Cologne,0,0,0,German,no
+28-Feb-2013,NA,7,Nicolás de Jesús López Rodríguez,5,Dominican Republic,31-Oct-1936,76.3285,21.6728,CP,28 June 1991,John Paul II,Archbishop of Santo Domingo,0,0,0,Spanish,no
+28-Feb-2013,NA,8,Roger Michael Mahony,3,United States,27-Feb-1936,77.0048,21.6728,CP,28 June 1991,John Paul II,Archbishop emeritus of Los Angeles,0,0,0,English,no
+28-Feb-2013,NA,9,Jaime Lucas Ortega y Alamino,5,Cuba,18-Oct-1936,76.3641,18.2587,CP,26 November 1994,John Paul II,Archbishop of San Cristóbal de la Habana,0,0,0,Spanish,no
+28-Feb-2013,NA,10,Jean-Claude Turcotte,2,Canada,26-Jun-1936,76.6762,18.2587,CP,26 November 1994,John Paul II,Archbishop emeritus of Montreal,0,0,0,French,no
+28-Feb-2013,NA,11,Vinko Puljić,2,Bosnia and Herzegovina,8-Sep-1945,67.4743,18.2587,CP,26 November 1994,John Paul II,Archbishop of Vrhbosna,0,0,0,Croatian,no
+28-Feb-2013,NA,12,Juan Sandoval Íñiguez,3,Mexico,28-Mar-1933,79.9233,18.2587,CP,26 November 1994,John Paul II,Archbishop emeritus of Guadalajara,0,0,0,Spanish,no
+28-Feb-2013,NA,13,Antonio María Rouco Varela,4,Spain,20-Aug-1936,76.5257,15.0198,CP,21 February 1998,John Paul II,Archbishop of Madrid,0,0,0,Spanish,no
+28-Feb-2013,NA,14,Dionigi Tettamanzi,2,Italy,14-Mar-1934,78.9624,15.0198,CP,21 February 1998,John Paul II,Archbishop emeritus of Milan,2,0,0,Italian,no
+28-Feb-2013,NA,15,Polycarp Pengo,2,Tanzania,5-Aug-1944,68.5667,15.0198,CP,21 February 1998,John Paul II,Archbishop of Dar-es-Salaam,0,0,0,Swahili,no
+28-Feb-2013,NA,16,Christoph Schönborn ,2,Austria,22-Jan-1945,68.1013,15.0198,CP,21 February 1998,John Paul II,Archbishop of Vienna,0,0,0.06,German,no
+28-Feb-2013,NA,17,Norberto Rivera Carrera,3,Mexico,6-Jun-1942,70.7324,15.0198,CP,21 February 1998,John Paul II,Archbishop of Mexico,0,0,0.02,Spanish,no
+28-Feb-2013,NA,18,Francis Eugene George ,3,United States,16-Jan-1937,76.1177,15.0198,CP,21 February 1998,John Paul II,Archbishop of Chicago,0,0,0,English,no
+28-Feb-2013,NA,19,Zenon Grocholewski,2,Poland,11-Oct-1939,73.3854,12.0192,CP,21 February 2001,John Paul II,Prefect of the Congregation for Catholic Education,0,0,0,Polish,no
+28-Feb-2013,NA,20,Crescenzio Sepe,2,Italy,2-Jun-1943,69.7440,12.0192,CP,21 February 2001,John Paul II,Archbishop of Naples,0,0,0,Italian,no
+28-Feb-2013,NA,21,Walter Kasper,2,Germany,5-Mar-1933,79.9863,12.0192,CP,21 February 2001,John Paul II,President emeritus of the Pontifical Council for Promoting Christian Unity,0,0,0,German,no
+28-Feb-2013,NA,22,Ivan Dias,2,India,14-Apr-1936,76.8761,12.0192,CP,21 February 2001,John Paul II,Prefect emeritus of the Congregation for the Evangelization of Peoples,0,0,0,Marathi,no
+28-Feb-2013,NA,23,Geraldo Majella Agnelo,3,Brazil,19-Oct-1933,79.3621,12.0192,CP,21 February 2001,John Paul II,Archbishop emeritus of São Salvador da Bahia,0,0,0,Portuguese,no
+28-Feb-2013,NA,24,Audrys Juozas Bačkis,3,Lithuania,1-Feb-1937,76.0739,12.0192,CP,21 February 2001,John Paul II,Archbishop of Vilnius,0,0,0,Lithuanian,no
+28-Feb-2013,NA,25,Francisco Javier Errázuriz Ossa ,4,Chile,5-Sep-1933,79.4825,12.0192,CP,21 February 2001,John Paul II,Archbishop emeritus of Santiago de Chile,0,0,0,Spanish,no
+28-Feb-2013,NA,26,Julio Terrazas Sandoval ,3,Bolivia,7-Mar-1936,76.9802,12.0192,CP,21 February 2001,John Paul II,Archbishop of Santa Cruz de la Sierra,0,0,0,Spanish,no
+28-Feb-2013,NA,27,Wilfrid Fox Napier ,3,South Africa,8-Mar-1941,71.9781,12.0192,CP,21 February 2001,John Paul II,Archbishop of Durban,0,0,0,English,no
+28-Feb-2013,NA,28,Óscar Andrés Rodríguez Maradiaga ,4,Honduras,29-Dec-1942,70.1684,12.0192,CP,21 February 2001,John Paul II,Archbishop of Tegucigalpa,3,0,0.05,Spanish,no
+28-Feb-2013,NA,29,Juan Luis Cipriani Thorne,4,Peru,28-Dec-1943,69.1718,12.0192,CP,21 February 2001,John Paul II,Archbishop of Lima,0,0,0,Spanish,no
+28-Feb-2013,NA,30,Cláudio Hummes ,2,Brazil,8-Aug-1934,78.5599,12.0192,CP,21 February 2001,John Paul II,Prefect emeritus of the Congregation for the Clergy,0,0,0.03,Portuguese,no
+28-Feb-2013,Francis,31,Jorge Mario Bergoglio ,3,Argentina,17-Dec-1936,76.1999,12.0192,CP,21 February 2001,John Paul II,Archbishop of Buenos Aires,10,0,0.04,Spanish,yes
+28-Feb-2013,NA,32,José da Cruz Policarpo,4,Portugal,26-Feb-1936,77.0075,12.0192,CP,21 February 2001,John Paul II,Patriarch of Lisbon,0,0,0,Portuguese,no
+28-Feb-2013,NA,33,Severino Poletto,2,Italy,18-Mar-1933,79.9507,12.0192,CP,21 February 2001,John Paul II,Archbishop emeritus of Turin,0,0,0,Italian,no
+28-Feb-2013,NA,34,Karl Lehmann,2,Germany,16-May-1936,76.7885,9.3580,CP,21 October 2003,John Paul II,Bishop of Mainz,0,0,0,German,no
+28-Feb-2013,NA,35,Angelo Scola,2,Italy,7-Nov-1941,71.3101,9.3580,CP,21 October 2003,John Paul II,Archbishop of Milan,0,0,0,Italian,no
+28-Feb-2013,NA,36,Anthony Olubunmi Okogie,3,Nigeria,16-Jun-1936,76.7036,9.3580,CP,21 October 2003,John Paul II,Archbishop emeritus of Lagos,0,0,0,Yoruba,no
+28-Feb-2013,NA,37,Gabriel Zubeir Wako,3,Sudan,27-Feb-1941,72.0027,9.3580,CP,21 October 2003,John Paul II,Archbishop of Khartoum,0,0,0,Arabic,no
+28-Feb-2013,NA,38,Carlos Amigo Vallejo ,3,Spain,23-Aug-1934,78.5188,9.3580,CP,21 October 2003,John Paul II,Archbishop emeritus of Seville,0,0,0,Spanish,no
+28-Feb-2013,NA,39,Justin Francis Rigali,3,United States,19-Apr-1935,77.8645,9.3580,CP,21 October 2003,John Paul II,Archbishop emeritus of Philadelphia,0,0,0,English,no
+28-Feb-2013,NA,40,Ennio Antonelli,2,Italy,18-Nov-1936,76.2793,9.3580,CP,21 October 2003,John Paul II,President emeritus of the Pontifical Council for the Family,0,0,0,Italian,no
+28-Feb-2013,NA,41,Peter Kodwo Appiah Turkson,4,Ghana,11-Oct-1948,64.3833,9.3580,CP,21 October 2003,John Paul II,President of the Pontifical Council for Justice and Peace,0,1,0.22,Fante,no
+28-Feb-2013,NA,42,Telesphore Placidus Toppo,3,India,15-Oct-1939,73.3744,9.3580,CP,21 October 2003,John Paul II,Archbishop of Ranchi,0,0,0,Hindi,no
+28-Feb-2013,NA,43,George Pell,2,Australia,8-Jun-1941,71.7262,9.3580,CP,21 October 2003,John Paul II,Archbishop of Sydney,0,0,0,English,no
+28-Feb-2013,NA,44,Josip Bozanić,2,Croatia,20-Mar-1949,63.9452,9.3580,CP,21 October 2003,John Paul II,Archbishop of Zagreb,0,0,0,Croatian,no
+28-Feb-2013,NA,45,Jean-Baptiste Phạm Minh Mẫn,4,Vietnam,5-Mar-1934,78.9870,9.3580,CP,21 October 2003,John Paul II,Archbishop of Ho Chi Minh City,0,0,0,Vietnamese,no
+28-Feb-2013,NA,46,Philippe Barbarin,2,France,17-Oct-1950,62.3682,9.3580,CP,21 October 2003,John Paul II,Archbishop of Lyon,0,0,0,French,no
+28-Feb-2013,NA,47,Péter Erdő,2,Hungary,25-Jun-1952,60.6790,9.3580,CP,21 October 2003,John Paul II,Archbishop of Esztergom–Budapest,0,0,0.07,Hungarian,no
+28-Feb-2013,NA,48,Marc Ouellet ,2,Canada,8-Jun-1944,68.7255,9.3580,CP,21 October 2003,John Paul II,Prefect of the Congregation for Bishops,0,0,0.12,French,no
+28-Feb-2013,NA,49,Agostino Vallini,2,Italy,17-Apr-1940,72.8679,6.9350,CP,24 March 2006,Benedict XVI,Vicar General for Rome and Archpriest of the Papal Basilica of Saint John Lateran,0,0,0,Italian,no
+28-Feb-2013,NA,50,Jorge Liberato Urosa Savino,4,Venezuela,28-Aug-1942,70.5051,6.9350,CP,24 March 2006,Benedict XVI,Archbishop of Caracas,0,0,0,Spanish,no
+28-Feb-2013,NA,51,Jean-Pierre Ricard,2,France,25-Sep-1944,68.4271,6.9350,CP,24 March 2006,Benedict XVI,Archbishop of Bordeaux,0,0,0,French,no
+28-Feb-2013,NA,52,Antonio Cañizares Llovera,3,Spain,15-Oct-1945,67.3730,6.9350,CP,24 March 2006,Benedict XVI,Prefect of the Congregation for Divine Worship and the Discipline of the Sacraments,0,0,0,Spanish,no
+28-Feb-2013,NA,53,Seán Patrick O'Malley,3,United States,29-Jun-1944,68.6680,6.9350,CP,24 March 2006,Benedict XVI,Archbishop of Boston,0,0,0.04,English,no
+28-Feb-2013,NA,54,Stanisław Dziwisz,2,Poland,27-Apr-1939,73.8426,6.9350,CP,24 March 2006,Benedict XVI,Archbishop of Kraków,0,0,0.03,Polish,no
+28-Feb-2013,NA,55,Carlo Caffarra,2,Italy,1-Jun-1938,74.7461,6.9350,CP,24 March 2006,Benedict XVI,Archbishop of Bologna,0,0,0,Italian,no
+28-Feb-2013,NA,56,Seán Baptist Brady,3,Ireland,16-Aug-1939,73.5387,5.2649,CP,24 November 2007,Benedict XVI,Archbishop of Armagh,0,0,0,English,no
+28-Feb-2013,NA,57,Lluís Martínez Sistach,3,Spain,29-Apr-1937,75.8357,5.2649,CP,24 November 2007,Benedict XVI,Archbishop of Barcelona,0,0,0,Catalan,no
+28-Feb-2013,NA,58,André Vingt-Trois,2,France,7-Nov-1942,70.3107,5.2649,CP,24 November 2007,Benedict XVI,Archbishop of Paris,0,0,0,French,no
+28-Feb-2013,NA,59,Angelo Bagnasco,2,Italy,14-Jan-1943,70.1246,5.2649,CP,24 November 2007,Benedict XVI,Archbishop of Genoa,0,0,0.1,Italian,no
+28-Feb-2013,NA,60,Théodore-Adrien Sarr,2,Senegal,28-Nov-1936,76.2519,5.2649,CP,24 November 2007,Benedict XVI,Archbishop of Dakar,0,0,0,French,no
+28-Feb-2013,NA,61,Oswald Gracias,2,India,24-Dec-1944,68.1807,5.2649,CP,24 November 2007,Benedict XVI,Archbishop of Bombay,0,0,0,English,no
+28-Feb-2013,NA,62,Francisco Robles Ortega,3,Mexico,2-Mar-1949,63.9945,5.2649,CP,24 November 2007,Benedict XVI,Archbishop of Guadalajara,0,0,0,Spanish,no
+28-Feb-2013,NA,63,Daniel Nicholas DiNardo,3,United States,23-May-1949,63.7700,5.2649,CP,24 November 2007,Benedict XVI,Archbishop of Galveston–Houston,0,0,0,English,no
+28-Feb-2013,NA,64,Odilo Pedro Scherer,3,Brazil,21-Sep-1949,63.4387,5.2649,CP,24 November 2007,Benedict XVI,Archbishop of São Paulo,0,0,0.06,Portuguese,no
+28-Feb-2013,NA,65,John Njue,2,Kenya,1-Jan-1946,67.1595,5.2649,CP,24 November 2007,Benedict XVI,Archbishop of Nairobi,0,0,0,Kikuyu,no
+28-Feb-2013,NA,66,Raúl Eduardo Vela Chiriboga,4,Ecuador,1-Jan-1934,79.1595,2.2752,CP,20 November 2010,Benedict XVI,Archbishop emeritus of Quito,0,0,0,Spanish,no
+28-Feb-2013,NA,67,Laurent Monsengwo Pasinya,3,Democratic Republic of the Congo,7-Oct-1939,73.3963,2.2752,CP,20 November 2010,Benedict XVI,Archbishop of Kinshasa,0,0,0,Lingala,no
+28-Feb-2013,NA,68,Paolo Romeo,2,Italy,20-Feb-1938,75.0226,2.2752,CP,20 November 2010,Benedict XVI,Archbishop of Palermo,0,0,0,Italian,no
+28-Feb-2013,NA,69,Donald William Wuerl,3,United States,12-Nov-1940,72.2957,2.2752,CP,20 November 2010,Benedict XVI,Archbishop of Washington,0,0,0,English,no
+28-Feb-2013,NA,70,Raymundo Damasceno Assis,3,Brazil,15-Feb-1937,76.0356,2.2752,CP,20 November 2010,Benedict XVI,Archbishop of Aparecida,0,0,0,Portuguese,no
+28-Feb-2013,NA,71,Kazimierz Nycz,2,Poland,1-Feb-1950,63.0746,2.2752,CP,20 November 2010,Benedict XVI,Archbishop of Warsaw,0,0,0,Polish,no
+28-Feb-2013,NA,72,Albert Malcolm Ranjith Patabendige Don,5,Sri Lanka,15-Nov-1947,65.2895,2.2752,CP,20 November 2010,Benedict XVI,Archbishop of Colombo,0,0,0,Sinhala,no
+28-Feb-2013,NA,73,Reinhard Marx,2,Germany,21-Sep-1953,59.4387,2.2752,CP,20 November 2010,Benedict XVI,Archbishop of Munich and Freising,0,0,0,German,no
+28-Feb-2013,NA,74,George Alencherry,2,India,19-Apr-1945,67.8631,1.0294,CP,18 February 2012,Benedict XVI,"Major Archbishop of Ernakulam–Angamaly
+(Syro-Malabar Church)",0,0,0,Malayalam,no
+28-Feb-2013,NA,75,Thomas Christopher Collins,3,Canada,16-Jan-1947,66.1191,1.0294,CP,18 February 2012,Benedict XVI,Archbishop of Toronto,0,0,0,English,no
+28-Feb-2013,NA,76,Dominik Duka ,2,Czech Republic,26-Apr-1943,69.8453,1.0294,CP,18 February 2012,Benedict XVI,Archbishop of Prague,0,0,0,Czech,no
+28-Feb-2013,NA,77,Willem Jacobus Eijk,3,Netherlands,22-Jun-1953,59.6879,1.0294,CP,18 February 2012,Benedict XVI,Archbishop of Utrecht,0,0,0,Dutch,no
+28-Feb-2013,NA,78,Giuseppe Betori,2,Italy,25-Feb-1947,66.0096,1.0294,CP,18 February 2012,Benedict XVI,Archbishop of Florence,0,0,0,Italian,no
+28-Feb-2013,NA,79,Timothy Michael Dolan,3,United States,6-Feb-1950,63.0609,1.0294,CP,18 February 2012,Benedict XVI,Archbishop of New York,0,0,0.03,English,no
+28-Feb-2013,NA,80,Rainer Maria Woelki,3,Germany,18-Aug-1956,56.5311,1.0294,CP,18 February 2012,Benedict XVI,Archbishop of Berlin,0,0,0,German,no
+28-Feb-2013,NA,81,John Tong Hon,3,"China
+(Hong Kong)[d]",31-Jul-1939,73.5825,1.0294,CP,18 February 2012,Benedict XVI,Bishop of Hong Kong,0,0,0,Cantonese,no
+28-Feb-2013,NA,82,Baselios Cleemis Thottunkal,3,India,15-Jun-1959,53.7084,0.2628,CP,24 November 2012,Benedict XVI,"Major Archbishop of Trivandrum
+(Syro-Malankara Church)",0,0,0,Malayalam,no
+28-Feb-2013,NA,83,John Olorunfemi Onaiyekan,3,Nigeria,29-Jan-1944,69.0842,0.2628,CP,24 November 2012,Benedict XVI,Archbishop of Abuja,0,0,0,English,no
+28-Feb-2013,NA,84,Rubén Salazar Gómez,3,Colombia,22-Sep-1942,70.4367,0.2628,CP,24 November 2012,Benedict XVI,Archbishop of Bogotá,0,0,0,Spanish,no
+28-Feb-2013,NA,85,Luis Antonio Gokim Tagle,4,Philippines,21-Jun-1957,55.6906,0.2628,CP,24 November 2012,Benedict XVI,Archbishop of Manila,0,0,0.04,Tagalog,no
+28-Feb-2013,NA,86,Jean-Louis Tauran,2,France,5-Apr-1943,69.9028,9.3580,CD,21 October 2003,John Paul II,President of the Pontifical Council for Interreligious Dialogue (Protodeacon),0,0,0,French,no
+28-Feb-2013,NA,87,Attilio Nicora,2,Italy,16-Mar-1937,75.9562,9.3580,CD,21 October 2003,John Paul II,Pontifical Legate for the Basilicas of Saint Francis and Saint Mary of the Angels in Assisi and President of the Financial Information Authority,0,0,0,Italian,no
+28-Feb-2013,NA,88,William Joseph Levada,3,United States,15-Jun-1936,76.7064,6.9350,CD,24 March 2006,Benedict XVI,Prefect emeritus of the Congregation for the Doctrine of the Faith,0,0,0,English,no
+28-Feb-2013,NA,89,Franc Rodé CM,3,Slovenia,23-Sep-1934,78.4339,6.9350,CD,24 March 2006,Benedict XVI,Prefect emeritus of the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life,0,0,0,Slovene,no
+28-Feb-2013,NA,90,Leonardo Sandri,2,Argentina,18-Nov-1943,69.2813,5.2649,CD,24 November 2007,Benedict XVI,Prefect of the Congregation for the Oriental Churches,0,1,0.07,Spanish,no
+28-Feb-2013,NA,91,Giovanni Lajolo,2,Italy,3-Jan-1935,78.1547,5.2649,CD,24 November 2007,Benedict XVI,President emeritus of the Pontifical Commission for Vatican City State,0,0,0,Italian,no
+28-Feb-2013,NA,92,Paul Josef Cordes,3,Germany,5-Sep-1934,78.4832,5.2649,CD,24 November 2007,Benedict XVI,President emeritus of the Pontifical Council Cor Unum,0,0,0,German,no
+28-Feb-2013,NA,93,Angelo Comastri,2,Italy,17-Sep-1943,69.4511,5.2649,CD,24 November 2007,Benedict XVI,"Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter and President of the Fabric of Saint Peter",0,0,0,Italian,no
+28-Feb-2013,NA,94,Stanisław Ryłko,2,Poland,4-Jul-1945,67.6550,5.2649,CD,24 November 2007,Benedict XVI,President of the Pontifical Council for the Laity,0,0,0.02,Polish,no
+28-Feb-2013,NA,95,Raffaele Farina ,2,Italy,24-Sep-1933,79.4305,5.2649,CD,24 November 2007,Benedict XVI,Archivist and Librarian emeritus of the Holy Roman Church,0,0,0,Italian,no
+28-Feb-2013,NA,96,Angelo Amato ,2,Italy,8-Jun-1938,74.7269,2.2752,CD,20 November 2010,Benedict XVI,Prefect of the Congregation for the Causes of Saints,0,0,0,Italian,no
+28-Feb-2013,NA,97,Robert Sarah,2,Guinea,15-Jun-1945,67.7070,2.2752,CD,20 November 2010,Benedict XVI,President of the Pontifical Council Cor Unum,0,0,0.02,French,no
+28-Feb-2013,NA,98,Francesco Monterisi,2,Italy,28-May-1934,78.7570,2.2752,CD,20 November 2010,Benedict XVI,Archpriest emeritus of the Papal Basilica of Saint Paul Outside the Walls,0,0,0,Italian,no
+28-Feb-2013,NA,99,Raymond Leo Burke,3,United States,30-Jun-1948,64.6653,2.2752,CD,20 November 2010,Benedict XVI,Prefect of the Supreme Tribunal of the Apostolic Signatura,0,0,0,English,no
+28-Feb-2013,NA,100,Kurt Koch,2,Switzerland,15-Mar-1950,62.9596,2.2752,CD,20 November 2010,Benedict XVI,President of the Pontifical Council for Promoting Christian Unity,0,0,0,German,no
+28-Feb-2013,NA,101,Paolo Sardi,2,Italy,1-Sep-1934,78.4942,2.2752,CD,20 November 2010,Benedict XVI,Patron of the Sovereign Military Order of Malta,0,0,0,Italian,no
+28-Feb-2013,NA,102,Mauro Piacenza,2,Italy,15-Sep-1944,68.4545,2.2752,CD,20 November 2010,Benedict XVI,Prefect of the Congregation for the Clergy,0,0,0.02,Italian,no
+28-Feb-2013,NA,103,Velasio De Paolis ,3,Italy,19-Sep-1935,77.4456,2.2752,CD,20 November 2010,Benedict XVI,President emeritus of the Prefecture for the Economic Affairs of the Holy See,0,0,0,Italian,no
+28-Feb-2013,NA,104,Gianfranco Ravasi,2,Italy,18-Oct-1942,70.3655,2.2752,CD,20 November 2010,Benedict XVI,President of the Pontifical Council for Culture,0,0,0.08,Italian,no
+28-Feb-2013,NA,105,Fernando Filoni,2,Italy,15-Apr-1946,66.8747,1.0294,CD,18 February 2012,Benedict XVI,Prefect of the Congregation for the Evangelization of Peoples,0,0,0,Italian,no
+28-Feb-2013,NA,106,Manuel Monteiro de Castro,4,Portugal,29-Mar-1938,74.9213,1.0294,CD,18 February 2012,Benedict XVI,Major Penitentiary,0,0,0,Portuguese,no
+28-Feb-2013,NA,107,Santos Abril y Castelló,4,Spain,21-Sep-1935,77.4401,1.0294,CD,18 February 2012,Benedict XVI,Archpriest of the Papal Basilica of Saint Mary Major,0,0,0,Spanish,no
+28-Feb-2013,NA,108,Antonio Maria Vegliò,3,Italy,3-Feb-1938,75.0691,1.0294,CD,18 February 2012,Benedict XVI,President of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People,0,0,0,Italian,no
+28-Feb-2013,NA,109,Giuseppe Bertello,2,Italy,1-Oct-1942,70.4120,1.0294,CD,18 February 2012,Benedict XVI,President of the Pontifical Commission for Vatican City State,0,0,0,Italian,no
+28-Feb-2013,NA,110,Francesco Coccopalmerio,2,Italy,6-Mar-1938,74.9843,1.0294,CD,18 February 2012,Benedict XVI,President of the Pontifical Council for Legislative Texts,0,0,0,Italian,no
+28-Feb-2013,NA,111,João Braz de Aviz,4,Brazil,24-Apr-1947,65.8508,1.0294,CD,18 February 2012,Benedict XVI,Prefect of the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life,0,0,0,Portuguese,no
+28-Feb-2013,NA,112,Edwin Frederick O'Brien,3,United States,8-Apr-1939,73.8946,1.0294,CD,18 February 2012,Benedict XVI,Grand Master of the Order of the Holy Sepulchre,0,0,0,English,no
+28-Feb-2013,NA,113,Domenico Calcagno,2,Italy,3-Feb-1943,70.0698,1.0294,CD,18 February 2012,Benedict XVI,President of the Administration of the Patrimony of the Apostolic See,0,0,0,Italian,no
+28-Feb-2013,NA,114,Giuseppe Versaldi,2,Italy,30-Jul-1943,69.5852,1.0294,CD,18 February 2012,Benedict XVI,President of the Prefecture for the Economic Affairs of the Holy See,0,0,0,Italian,no
+28-Feb-2013,NA,115,James Michael Harvey,3,United States,20-Oct-1949,63.3593,0.2628,CD,24 November 2012,Benedict XVI,Archpriest of the Papal Basilica of Saint Paul Outside the Walls,0,0,0,English,no
+2-Apr-2005,Benedict XVI,1,Joseph Alois Ratzinger,3,Germany,16-Apr-1927,77.9630,27.7645,CB,27 June 1977,Paul VI,Prefect of the Congregation for the Doctrine of the Faith (Dean),0,0,0,German,yes
+2-Apr-2005,NA,2,Angelo Sodano,2,Italy,23-Nov-1927,77.3580,13.7632,CB,28 June 1991,John Paul II,Secretary of State (Vice-Dean),0,0,0,Italian,no
+2-Apr-2005,NA,3,Alfonso López Trujillo,3,Colombia,8-Nov-1935,69.3990,22.1629,CB,2 February 1983,John Paul II,President of the Pontifical Council for the Family,0,0,0,Spanish,no
+2-Apr-2005,NA,4,Giovanni Battista Re,3,Italy,30-Jan-1934,71.1704,4.1095,CB,21 February 2001,John Paul II,Prefect of the Congregation for Bishops,0,0,0,Italian,no
+2-Apr-2005,NA,5,Ignace Moussa I Daoud,4,Syria,18-Sep-1930,74.5380,4.1095,CB,21 February 2001,John Paul II,"Prefect of the Congregation for the Oriental Churches
+(Syriac Church)",0,0,0,Arabic,no
+2-Apr-2005,NA,6,William Wakefield Baum,3,United States,21-Nov-1926,78.3628,28.8569,CP,24 May 1976,Paul VI,Major Penitentiary emeritus,0,0,0,English,no
+2-Apr-2005,NA,7,Marco Cé,2,Italy,8-Jul-1925,79.7344,25.7577,CP,30 June 1979,John Paul II,Patriarch emeritus of Venice,0,0,0,Italian,no
+2-Apr-2005,NA,8,Franciszek Macharski,2,Poland,20-May-1927,77.8700,25.7577,CP,30 June 1979,John Paul II,Archbishop of Kraków,0,0,0,Polish,no
+2-Apr-2005,NA,9,Michael Michai Kitbunchu,3,Thailand,25-Jan-1929,76.1834,22.1629,CP,2 February 1983,John Paul II,Archbishop of Bangkok,0,0,0,Thai,no
+2-Apr-2005,NA,10,Godfried Danneels,2,Belgium,4-Jun-1933,71.8275,22.1629,CP,2 February 1983,John Paul II,Archbishop of Mechelen–Brussels,0,0,0,Dutch,no
+2-Apr-2005,NA,11,Thomas Stafford Williams,3,New Zealand,20-Mar-1930,75.0363,22.1629,CP,2 February 1983,John Paul II,Archbishop emeritus of Wellington,0,0,0,English,no
+2-Apr-2005,NA,12,Carlo Maria Martini ,3,Italy,15-Feb-1927,78.1273,22.1629,CP,2 February 1983,John Paul II,Archbishop emeritus of Milan,0,0,0,Italian,no
+2-Apr-2005,NA,13,Jean-Marie Lustiger,2,France,17-Sep-1926,78.5407,22.1629,CP,2 February 1983,John Paul II,Archbishop emeritus of Paris,0,0,0,French,no
+2-Apr-2005,NA,14,Józef Glemp,2,Poland,18-Dec-1929,75.2882,22.1629,CP,2 February 1983,John Paul II,Archbishop of Warsaw,0,0,0,Polish,no
+2-Apr-2005,NA,15,Joachim Meisner,2,Germany,25-Dec-1933,71.2690,22.1629,CP,2 February 1983,John Paul II,Archbishop of Cologne,0,0,0,German,no
+2-Apr-2005,NA,16,Francis Arinze,2,Nigeria,1-Nov-1932,72.4162,19.8549,CP,25 May 1985,John Paul II,Prefect of the Congregation for Divine Worship and the Discipline of the Sacraments,0,0,0,Igbo,no
+2-Apr-2005,NA,17,Miguel Obando Bravo ,3,Nicaragua,2-Feb-1926,79.1622,19.8549,CP,25 May 1985,John Paul II,Archbishop emeritus of Managua,0,0,0,Spanish,no
+2-Apr-2005,NA,18,Ricardo Jamin Vidal,3,Philippines,6-Feb-1931,74.1520,19.8549,CP,25 May 1985,John Paul II,Archbishop of Cebu,0,0,0,Cebuano,no
+2-Apr-2005,NA,19,Paul Poupard,2,France,30-Aug-1930,74.5900,19.8549,CP,25 May 1985,John Paul II,President of the Pontifical Council for Culture,0,0,0,French,no
+2-Apr-2005,NA,20,Friedrich Wetter,2,Germany,20-Feb-1928,77.1143,19.8549,CP,25 May 1985,John Paul II,Archbishop of Munich and Freising,0,0,0,German,no
+2-Apr-2005,NA,21,Adrianus Johannes Simonis,3,Netherlands,26-Nov-1931,73.3498,19.8549,CP,25 May 1985,John Paul II,Archbishop of Utrecht,0,0,0,Dutch,no
+2-Apr-2005,NA,22,Bernard Francis Law,3,United States,4-Nov-1931,73.4100,19.8549,CP,25 May 1985,John Paul II,Archpriest of the Papal Basilica of Saint Mary Major,0,0,0,English,no
+2-Apr-2005,NA,23,Giacomo Biffi,2,Italy,13-Jun-1928,76.8022,19.8549,CP,25 May 1985,John Paul II,Archbishop emeritus of Bologna,0,0,0,Italian,no
+2-Apr-2005,NA,24,Eduardo Martínez Somalo,3,Spain,31-Mar-1927,78.0068,16.7611,CP,28 June 1988,John Paul II,Prefect emeritus of the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life and Camerlengo of the Holy Roman Church,0,0,0,Spanish,no
+2-Apr-2005,NA,25,José Freire Falcão,3,Brazil,23-Oct-1925,79.4415,16.7611,CP,28 June 1988,John Paul II,Archbishop emeritus of Brasília,0,0,0,Portuguese,no
+2-Apr-2005,NA,26,Michele Giordano,2,Italy,22-Sep-1930,74.5270,16.7611,CP,28 June 1988,John Paul II,Archbishop of Naples,0,0,0,Italian,no
+2-Apr-2005,NA,27,Edmund Casimir Szoka,3,United States,14-Sep-1927,77.5496,16.7611,CP,28 June 1988,John Paul II,President of the Pontifical Commission for Vatican City State,0,0,0,Polish,no
+2-Apr-2005,NA,28,László Paskai ,2,Hungary,8-May-1927,77.9028,16.7611,CP,28 June 1988,John Paul II,Archbishop emeritus of Esztergom–Budapest,0,0,0,Hungarian,no
+2-Apr-2005,NA,29,Christian Wiyghan Tumi,3,Cameroon,15-Oct-1930,74.4641,16.7611,CP,28 June 1988,John Paul II,Archbishop of Douala,0,0,0,French,no
+2-Apr-2005,NA,30,Frédéric Etsou-Nzabi-Bamungwabi CICM,3,Democratic Republic of the Congo,3-Dec-1930,74.3299,13.7632,CP,28 June 1991,John Paul II,Archbishop of Kinshasa,0,0,0,French,no
+2-Apr-2005,NA,31,Nicolás de Jesús López Rodríguez,5,Dominican Republic,31-Oct-1936,68.4189,13.7632,CP,28 June 1991,John Paul II,Archbishop of Santo Domingo,0,0,0,Spanish,no
+2-Apr-2005,NA,32,Roger Michael Mahony,3,United States,27-Feb-1936,69.0951,13.7632,CP,28 June 1991,John Paul II,Archbishop of Los Angeles,0,0,0,English,no
+2-Apr-2005,NA,33,Camillo Ruini,2,Italy,19-Feb-1931,74.1164,13.7632,CP,28 June 1991,John Paul II,Vicar General for Rome and Archpriest of the Papal Basilica of Saint John Lateran,0,0,0,Italian,no
+2-Apr-2005,NA,34,Henri Schwery,2,Switzerland,14-Jun-1932,72.7995,13.7632,CP,28 June 1991,John Paul II,Bishop emeritus of Sion,0,0,0,French,no
+2-Apr-2005,NA,35,Georg Maximilian Sterzinsky,3,Germany,9-Feb-1936,69.1444,13.7632,CP,28 June 1991,John Paul II,Archbishop of Berlin,0,0,0,German,no
+2-Apr-2005,NA,36,Miloslav Vlk,2,Czech Republic,17-May-1932,72.8761,10.3491,CP,26 November 1994,John Paul II,Archbishop of Prague,0,0,0,Czech,no
+2-Apr-2005,NA,37,Peter Seiichi Shirayanagi,3,Japan,17-Jun-1928,76.7912,10.3491,CP,26 November 1994,John Paul II,Archbishop emeritus of Tokyo,0,0,0,Japanese,no
+2-Apr-2005,NA,38,Julius Darmaatmadja ,2,Indonesia,20-Dec-1934,70.2834,10.3491,CP,26 November 1994,John Paul II,Archbishop of Jakarta,0,0,0,Javanese,no
+2-Apr-2005,NA,39,Jaime Lucas Ortega y Alamino,5,Cuba,18-Oct-1936,68.4545,10.3491,CP,26 November 1994,John Paul II,Archbishop of San Cristóbal de la Habana,0,0,0,Spanish,no
+2-Apr-2005,NA,40,Emmanuel Wamala,2,Uganda,15-Dec-1926,78.2971,10.3491,CP,26 November 1994,John Paul II,Archbishop of Kampala,0,0,0,Luganda,no
+2-Apr-2005,NA,41,William Henry Keeler,3,United States,4-Mar-1931,74.0808,10.3491,CP,26 November 1994,John Paul II,Archbishop of Baltimore,0,0,0,English,no
+2-Apr-2005,NA,42,Jean-Claude Turcotte,2,Canada,26-Jun-1936,68.7666,10.3491,CP,26 November 1994,John Paul II,Archbishop of Montreal,0,0,0,French,no
+2-Apr-2005,NA,43,Ricardo María Carles Gordó,4,Spain,24-Sep-1926,78.5216,10.3491,CP,26 November 1994,John Paul II,Archbishop emeritus of Barcelona,0,0,0,Spanish,no
+2-Apr-2005,NA,44,Adam Joseph Maida,3,United States,18-Mar-1930,75.0418,10.3491,CP,26 November 1994,John Paul II,Archbishop of Detroit,0,0,0,English,no
+2-Apr-2005,NA,45,Vinko Puljić,2,Bosnia and Herzegovina,8-Sep-1945,59.5647,10.3491,CP,26 November 1994,John Paul II,Archbishop of Vrhbosna,0,0,0,Croatian,no
+2-Apr-2005,NA,46,Armand Gaetan Razafindratandra,3,Madagascar,7-Aug-1925,79.6523,10.3491,CP,26 November 1994,John Paul II,Archbishop of Antananarivo,0,0,0,Malagasy,no
+2-Apr-2005,NA,47,Juan Sandoval Íñiguez,3,Mexico,28-Mar-1933,72.0137,10.3491,CP,26 November 1994,John Paul II,Archbishop of Guadalajara,0,0,0,Spanish,no
+2-Apr-2005,NA,48,Salvatore De Giorgi,3,Italy,6-Sep-1930,74.5708,7.1102,CP,21 February 1998,John Paul II,Archbishop of Palermo,0,0,0,Italian,no
+2-Apr-2005,NA,49,Antonio María Rouco Varela,4,Spain,20-Aug-1936,68.6160,7.1102,CP,21 February 1998,John Paul II,Archbishop of Madrid,0,0,0,Spanish,no
+2-Apr-2005,NA,50,Aloysius Matthew Ambrozic,3,Canada,27-Jan-1930,75.1786,7.1102,CP,21 February 1998,John Paul II,Archbishop of Toronto,0,0,0,Slovenian,no
+2-Apr-2005,NA,51,Dionigi Tettamanzi,2,Italy,14-Mar-1934,71.0527,7.1102,CP,21 February 1998,John Paul II,Archbishop of Milan,0,0,0,Italian,no
+2-Apr-2005,NA,52,Polycarp Pengo,2,Tanzania,5-Aug-1944,60.6571,7.1102,CP,21 February 1998,John Paul II,Archbishop of Dar-es-Salaam,0,0,0,Swahili,no
+2-Apr-2005,NA,53,Christoph Schönborn ,2,Austria,22-Jan-1945,60.1916,7.1102,CP,21 February 1998,John Paul II,Archbishop of Vienna,0,0,0,German,no
+2-Apr-2005,NA,54,Norberto Rivera Carrera,3,Mexico,6-Jun-1942,62.8227,7.1102,CP,21 February 1998,John Paul II,Archbishop of Mexico,0,0,0,Spanish,no
+2-Apr-2005,NA,55,Francis Eugene George ,3,United States,16-Jan-1937,68.2081,7.1102,CP,21 February 1998,John Paul II,Archbishop of Chicago,0,0,0,English,no
+2-Apr-2005,NA,56,Marian Jaworski,2,Poland[a],21-Aug-1926,78.6146,7.1102,CP,21 February 1998,John Paul II,Archbishop of Lviv,0,0,0,Polish,no
+2-Apr-2005,NA,57,Jānis Pujats,2,Latvia,14-Nov-1930,74.3819,7.1102,CP,21 February 1998,John Paul II,Archbishop of Riga,0,0,0,Latvian,no
+2-Apr-2005,NA,58,Ivan Dias,2,India,14-Apr-1936,68.9665,4.1095,CP,21 February 2001,John Paul II,Archbishop of Bombay,0,0,0,Marathi,no
+2-Apr-2005,NA,59,Geraldo Majella Agnelo,3,Brazil,19-Oct-1933,71.4524,4.1095,CP,21 February 2001,John Paul II,Archbishop of São Salvador da Bahia,0,0,0,Portuguese,no
+2-Apr-2005,NA,60,Pedro Rubiano Sáenz,3,Colombia,13-Sep-1932,72.5503,4.1095,CP,21 February 2001,John Paul II,Archbishop of Bogotá,0,0,0,Spanish,no
+2-Apr-2005,NA,61,Theodore Edgar McCarrick,3,United States,7-Jul-1930,74.7379,4.1095,CP,21 February 2001,John Paul II,Archbishop of Washington,0,0,0,English,no
+2-Apr-2005,NA,62,Desmond Connell,2,Ireland,24-Mar-1926,79.0253,4.1095,CP,21 February 2001,John Paul II,Archbishop emeritus of Dublin,0,0,0,English,no
+2-Apr-2005,NA,63,Audrys Juozas Bačkis,3,Lithuania,1-Feb-1937,68.1643,4.1095,CP,21 February 2001,John Paul II,Archbishop of Vilnius,0,0,0,Lithuanian,no
+2-Apr-2005,NA,64,Francisco Javier Errázuriz Ossa ,4,Chile,5-Sep-1933,71.5729,4.1095,CP,21 February 2001,John Paul II,Archbishop of Santiago de Chile,0,0,0,Spanish,no
+2-Apr-2005,NA,65,Julio Terrazas Sandoval ,3,Bolivia,7-Mar-1936,69.0705,4.1095,CP,21 February 2001,John Paul II,Archbishop of Santa Cruz de la Sierra,0,0,0,Spanish,no
+2-Apr-2005,NA,66,Wilfrid Fox Napier ,3,South Africa,8-Mar-1941,64.0684,4.1095,CP,21 February 2001,John Paul II,Archbishop of Durban,0,0,0,English,no
+2-Apr-2005,NA,67,Óscar Andrés Rodríguez Maradiaga ,4,Honduras,29-Dec-1942,62.2587,4.1095,CP,21 February 2001,John Paul II,Archbishop of Tegucigalpa,0,0,0,Spanish,no
+2-Apr-2005,NA,68,Bernard Agré,2,Ivory Coast,2-Mar-1926,79.0856,4.1095,CP,21 February 2001,John Paul II,Archbishop of Abidjan,0,0,0,French,no
+2-Apr-2005,NA,69,Juan Luis Cipriani Thorne,4,Peru,28-Dec-1943,61.2621,4.1095,CP,21 February 2001,John Paul II,Archbishop of Lima,0,0,0,Spanish,no
+2-Apr-2005,NA,70,Francisco Álvarez Martínez,3,Spain,14-Jul-1925,79.7180,4.1095,CP,21 February 2001,John Paul II,Archbishop emeritus of Toledo,0,0,0,Spanish,no
+2-Apr-2005,NA,71,Cláudio Hummes ,2,Brazil,8-Aug-1934,70.6502,4.1095,CP,21 February 2001,John Paul II,Archbishop of São Paulo,0,0,0,Portuguese,no
+2-Apr-2005,NA,72,Varkey Vithayathil ,2,India,29-May-1927,77.8453,4.1095,CP,21 February 2001,John Paul II,"Major Archbishop of Ernakulam–Angamaly
+(Syro-Malabar Church)",0,0,0,Malayalam,no
+2-Apr-2005,NA,73,Jorge Mario Bergoglio ,3,Argentina,17-Dec-1936,68.2902,4.1095,CP,21 February 2001,John Paul II,Archbishop of Buenos Aires,0,0,0,Spanish,no
+2-Apr-2005,NA,74,José da Cruz Policarpo,4,Portugal,26-Feb-1936,69.0979,4.1095,CP,21 February 2001,John Paul II,Patriarch of Lisbon,0,0,0,Portuguese,no
+2-Apr-2005,NA,75,Severino Poletto,2,Italy,18-Mar-1933,72.0411,4.1095,CP,21 February 2001,John Paul II,Archbishop of Turin,0,0,0,Italian,no
+2-Apr-2005,NA,76,Cormac Murphy-O'Connor,2,United Kingdom,24-Aug-1932,72.6051,4.1095,CP,21 February 2001,John Paul II,Archbishop of Westminster,0,0,0,English,no
+2-Apr-2005,NA,77,Edward Michael Egan,3,United States,2-Apr-1932,72.9993,4.1095,CP,21 February 2001,John Paul II,Archbishop of New York,0,0,0,English,no
+2-Apr-2005,NA,78,Lubomyr Husar ,2,Ukraine,26-Feb-1933,72.0958,4.1095,CP,21 February 2001,John Paul II,"Major Archbishop of Kyiv–Galicia
+(Ukrainian Greek Church)",0,0,0,Ukrainian,no
+2-Apr-2005,NA,79,Karl Lehmann,2,Germany,16-May-1936,68.8789,1.4483,CP,21 October 2003,John Paul II,Bishop of Mainz,0,0,0,German,no
+2-Apr-2005,NA,80,Angelo Scola,2,Italy,7-Nov-1941,63.4004,1.4483,CP,21 October 2003,John Paul II,Patriarch of Venice,0,0,0,Italian,no
+2-Apr-2005,NA,81,Anthony Olubunmi Okogie,3,Nigeria,16-Jun-1936,68.7940,1.4483,CP,21 October 2003,John Paul II,Archbishop of Lagos,0,0,0,Yoruba,no
+2-Apr-2005,NA,82,Bernard Panafieu,2,France,26-Jan-1931,74.1821,1.4483,CP,21 October 2003,John Paul II,Archbishop of Marseille,0,0,0,French,no
+2-Apr-2005,NA,83,Gabriel Zubeir Wako,3,Sudan,27-Feb-1941,64.0931,1.4483,CP,21 October 2003,John Paul II,Archbishop of Khartoum,0,0,0,Arabic,no
+2-Apr-2005,NA,84,Carlos Amigo Vallejo ,3,Spain,23-Aug-1934,70.6092,1.4483,CP,21 October 2003,John Paul II,Archbishop of Seville,0,0,0,Spanish,no
+2-Apr-2005,NA,85,Justin Francis Rigali,3,United States,19-Apr-1935,69.9548,1.4483,CP,21 October 2003,John Paul II,Archbishop of Philadelphia,0,0,0,English,no
+2-Apr-2005,NA,86,Keith Michael Patrick O'Brien,4,United Kingdom,17-Mar-1938,67.0445,1.4483,CP,21 October 2003,John Paul II,Archbishop of Saint Andrews and Edinburgh,0,0,0,English,no
+2-Apr-2005,NA,87,Eusébio Oscar Scheid ,3,Brazil,8-Dec-1932,72.3149,1.4483,CP,21 October 2003,John Paul II,Archbishop of São Sebastião do Rio de Janeiro,0,0,0,Portuguese,no
+2-Apr-2005,NA,88,Ennio Antonelli,2,Italy,18-Nov-1936,68.3696,1.4483,CP,21 October 2003,John Paul II,Archbishop of Florence,0,0,0,Italian,no
+2-Apr-2005,NA,89,Tarcisio Bertone ,2,Italy,2-Dec-1934,70.3326,1.4483,CP,21 October 2003,John Paul II,Archbishop of Genoa,0,0,0,Italian,no
+2-Apr-2005,NA,90,Peter Kodwo Appiah Turkson,4,Ghana,11-Oct-1948,56.4736,1.4483,CP,21 October 2003,John Paul II,Archbishop of Cape Coast,0,0,0,Fante,no
+2-Apr-2005,NA,91,Telesphore Placidus Toppo,3,India,15-Oct-1939,65.4648,1.4483,CP,21 October 2003,John Paul II,Archbishop of Ranchi,0,0,0,Hindi,no
+2-Apr-2005,NA,92,George Pell,2,Australia,8-Jun-1941,63.8166,1.4483,CP,21 October 2003,John Paul II,Archbishop of Sydney,0,0,0,English,no
+2-Apr-2005,NA,93,Josip Bozanić,2,Croatia,20-Mar-1949,56.0356,1.4483,CP,21 October 2003,John Paul II,Archbishop of Zagreb,0,0,0,Croatian,no
+2-Apr-2005,NA,94,Jean-Baptiste Phạm Minh Mẫn,4,Vietnam,5-Mar-1934,71.0773,1.4483,CP,21 October 2003,John Paul II,Archbishop of Ho Chi Minh City,0,0,0,Vietnamese,no
+2-Apr-2005,NA,95,Rodolfo Quezada Toruño,3,Guatemala,8-Mar-1932,73.0678,1.4483,CP,21 October 2003,John Paul II,Archbishop of Guatemala,0,0,0,Spanish,no
+2-Apr-2005,NA,96,Philippe Barbarin,2,France,17-Oct-1950,54.4586,1.4483,CP,21 October 2003,John Paul II,Archbishop of Lyon,0,0,0,French,no
+2-Apr-2005,NA,97,Péter Erdő,2,Hungary,25-Jun-1952,52.7693,1.4483,CP,21 October 2003,John Paul II,Archbishop of Esztergom–Budapest,0,0,0,Hungarian,no
+2-Apr-2005,NA,98,Marc Ouellet ,2,Canada,8-Jun-1944,60.8159,1.4483,CP,21 October 2003,John Paul II,Archbishop of Quebec,0,0,0,French,no
+2-Apr-2005,NA,99,Jorge Arturo Medina Estévez,4,Chile,23-Dec-1926,78.2752,7.1102,CD,21 February 1998,John Paul II,Prefect emeritus of the Congregation for Divine Worship and the Discipline of the Sacraments (Protodeacon),0,0,0,Spanish,no
+2-Apr-2005,NA,100,Darío Castrillón Hoyos,3,Colombia,4-Jul-1929,75.7454,7.1102,CD,21 February 1998,John Paul II,Prefect of the Congregation for the Clergy and President of the Pontifical Commission Ecclesia Dei,0,0,0,Spanish,no
+2-Apr-2005,NA,101,James Francis Stafford,3,United States,26-Jul-1932,72.6845,7.1102,CD,21 February 1998,John Paul II,Major Penitentiary,0,0,0,English,no
+2-Apr-2005,NA,102,Agostino Cacciavillan,2,Italy,14-Aug-1926,78.6338,4.1095,CD,21 February 2001,John Paul II,President emeritus of the Administration of the Patrimony of the Apostolic See,0,0,0,Italian,no
+2-Apr-2005,NA,103,Sergio Sebastiani,2,Italy,11-Apr-1931,73.9767,4.1095,CD,21 February 2001,John Paul II,President of the Prefecture for the Economic Affairs of the Holy See,0,0,0,Italian,no
+2-Apr-2005,NA,104,Zenon Grocholewski,2,Poland,11-Oct-1939,65.4757,4.1095,CD,21 February 2001,John Paul II,Prefect of the Congregation for Catholic Education,0,0,0,Polish,no
+2-Apr-2005,NA,105,José Saraiva Martins ,3,Portugal,6-Jan-1932,73.2375,4.1095,CD,21 February 2001,John Paul II,Prefect of the Congregation for the Causes of Saints,0,0,0,Portuguese,no
+2-Apr-2005,NA,106,Crescenzio Sepe,2,Italy,2-Jun-1943,61.8344,4.1095,CD,21 February 2001,John Paul II,Prefect of the Congregation for the Evangelization of Peoples,0,0,0,Italian,no
+2-Apr-2005,NA,107,Mario Francesco Pompedda,3,Italy,18-Apr-1929,75.9562,4.1095,CD,21 February 2001,John Paul II,Prefect emeritus of the Supreme Tribunal of the Apostolic Signatura,0,0,0,Italian,no
+2-Apr-2005,NA,108,Walter Kasper,2,Germany,5-Mar-1933,72.0767,4.1095,CD,21 February 2001,John Paul II,President of the Pontifical Council for Promoting Christian Unity,0,0,0,German,no
+2-Apr-2005,NA,109,Jean-Louis Tauran,2,France,5-Apr-1943,61.9932,1.4483,CD,21 October 2003,John Paul II,Archivist and Librarian of the Holy Roman Church,0,0,0,French,no
+2-Apr-2005,NA,110,Renato Raffaele Martino,3,Italy,23-Nov-1932,72.3559,1.4483,CD,21 October 2003,John Paul II,President of the Pontifical Council for Justice and Peace,0,0,0,Italian,no
+2-Apr-2005,NA,111,Francesco Marchisano,2,Italy,25-Jun-1929,75.7700,1.4483,CD,21 October 2003,John Paul II,Archpriest of the Papal Basilica of Saint Peter and President of the Labour Office of the Apostolic See,0,0,0,Italian,no
+2-Apr-2005,NA,112,Julián Herranz Casado,3,Spain,31-Mar-1930,75.0062,1.4483,CD,21 October 2003,John Paul II,President of the Pontifical Council for Legislative Texts,0,0,0,Spanish,no
+2-Apr-2005,NA,113,Javier Lozano Barragán,3,Mexico,26-Jan-1933,72.1807,1.4483,CD,21 October 2003,John Paul II,President of the Pontifical Council for the Pastoral Care of Health Care Workers,0,0,0,Spanish,no
+2-Apr-2005,NA,114,Stephen Fumio Hamao,3,Japan,9-Mar-1930,75.0664,1.4483,CD,21 October 2003,John Paul II,President of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People,0,0,0,Japanese,no
+2-Apr-2005,NA,115,Attilio Nicora,2,Italy,16-Mar-1937,68.0465,1.4483,CD,21 October 2003,John Paul II,President of the Administration of the Patrimony of the Apostolic See,0,0,0,Italian,no
+1-Oct-1978,NA,1,Jean-Marie Villot,2,France,11-Oct-1905,72.9719,13.6044,CB,22 February 1965,Paul VI,"Secretary of State, Camerlengo of the Holy Roman Church and President of the Pontifical Council Cor Unum[e]",0,0,0,French,no
+1-Oct-1978,NA,2,Antonio Samorè,2,Italy,4-Dec-1905,72.8241,13.6044,CB,22 February 1965,Paul VI,Archivist and Librarian of the Holy Roman Church,0,0,0,Italian,no
+1-Oct-1978,NA,3,Francesco Carpino,2,Italy,18-May-1905,73.3717,11.2663,CB,26 June 1967,Paul VI,Archbishop emeritus of Palermo,0,0,0,Italian,no
+1-Oct-1978,NA,4,Sebastiano Baggio,2,Italy,16-May-1913,65.3771,11.2663,CB,26 June 1967,Paul VI,Prefect of the Sacred Congregation for Bishops,0,0,0,Italian,no
+1-Oct-1978,NA,5,Stéphanos I Sidarouss,3,Egypt,22-Feb-1904,74.6064,9.4264,CB,28 April 1969,Paul VI,"Patriarch of Alexandria
+(Coptic Catholic Church)",0,0,0,Arabic,no
+1-Oct-1978,NA,6,Giuseppe Siri,2,Italy,20-May-1906,72.3669,13.6044,CP,22 February 1965,Paul VI,Archbishop of Genoa,0,0,0,Italian,no
+1-Oct-1978,NA,7,Stefan Wyszyński,2,Poland,3-Aug-1901,77.1608,25.7166,CP,12 January 1953,Pius XII,Archbishop of Gniezno and of Warsaw,0,0,0,Polish,no
+1-Oct-1978,NA,8,Paul Émile Léger ,3,Canada,26-Apr-1904,74.4312,25.7166,CP,12 January 1953,Pius XII,Archbishop emeritus of Montreal,0,0,0,French,no
+1-Oct-1978,NA,9,José María Bueno y Monreal,5,Spain,11-Sep-1904,74.0534,25.7166,CP,12 January 1953,Pius XII,Archbishop of Seville,0,0,0,Spanish,no
+1-Oct-1978,NA,10,Franz König,2,Austria,3-Aug-1905,73.1608,19.7947,CP,15 December 1958,John XXIII,Archbishop of Vienna and President of the Secretariat for Non-Believers,0,0,0,German,no
+1-Oct-1978,NA,11,Bernardus Johannes Alfrink,3,Netherlands,5-Jul-1900,78.2396,19.7947,CP,15 December 1958,John XXIII,Archbishop emeritus of Utrecht,0,0,0,Dutch,no
+1-Oct-1978,NA,12,Laurean Rugambwa,2,Tanzania,12-Jul-1912,66.2204,18.5106,CP,28 March 1960,John XXIII,Archbishop of Dar-es-Salaam,0,0,0,Swahili,no
+1-Oct-1978,NA,13,José Humberto Quintero Parra,4,Venezuela,22-Sep-1902,76.0246,18.5106,CP,28 March 1960,John XXIII,Archbishop of Caracas,0,0,0,Spanish,no
+1-Oct-1978,NA,14,Juan Landázuri Ricketts ,3,Peru,19-Nov-1913,64.8652,17.7057,CP,16 January 1961,John XXIII,Archbishop of Lima,0,0,0,Spanish,no
+1-Oct-1978,NA,15,Raúl Silva Henríquez ,3,Chile,27-Sep-1907,71.0116,16.5366,CP,19 March 1962,John XXIII,Archbishop of Santiago de Chile,0,0,0,Spanish,no
+1-Oct-1978,NA,16,Leo-Jozef Suenens,2,Belgium,16-Jul-1904,74.2094,16.5366,CP,19 March 1962,John XXIII,Archbishop of Mechelen–Brussels,0,0,0,Dutch,no
+1-Oct-1978,NA,17,Thomas Benjamin Cooray ,3,Sri Lanka,28-Dec-1901,76.7584,16.5366,CP,19 March 1962,John XXIII,Archbishop emeritus of Colombo,0,0,0,Sinhala,no
+1-Oct-1978,NA,18,Maurice Roy,2,Canada,25-Jan-1905,73.6810,13.6044,CP,22 February 1965,Paul VI,Archbishop of Quebec,0,0,0,French,no
+1-Oct-1978,NA,19,Owen McCann,2,South Africa,29-Jun-1907,71.2580,13.6044,CP,22 February 1965,Paul VI,Archbishop of Cape Town,0,0,0,English,no
+1-Oct-1978,NA,20,Léon-Étienne Duval,2,Algeria,9-Nov-1903,74.8939,13.6044,CP,22 February 1965,Paul VI,Archbishop of Algiers,0,0,0,French,no
+1-Oct-1978,NA,21,Ermenegildo Florit,2,Italy,5-Jul-1901,77.2402,13.6044,CP,22 February 1965,Paul VI,Archbishop emeritus of Florence,0,0,0,Italian,no
+1-Oct-1978,NA,22,Franjo Šeper,2,Yugoslavia,2-Oct-1905,72.9966,13.6044,CP,22 February 1965,Paul VI,Prefect of the Sacred Congregation for the Doctrine of the Faith,0,0,0,Croatian,no
+1-Oct-1978,NA,23,Paul Zoungrana,2,Upper Volta,3-Sep-1917,61.0760,13.6044,CP,22 February 1965,Paul VI,Archbishop of Ouagadougou,0,0,0,Moore,no
+1-Oct-1978,NA,24,Agnelo Rossi,2,Brazil,14-May-1910,68.3833,13.6044,CP,22 February 1965,Paul VI,Prefect of the Sacred Congregation for the Evangelization of Peoples,0,0,0,Portuguese,no
+1-Oct-1978,NA,25,Giovanni Colombo,2,Italy,6-Dec-1902,75.8193,13.6044,CP,22 February 1965,Paul VI,Archbishop of Milan,0,0,0,Italian,no
+1-Oct-1978,NA,26,Gabriel-Marie Garrone,2,France,12-Oct-1901,76.9692,13.6044,CP,22 February 1965,Paul VI,Prefect of the Sacred Congregation for Catholic Education and Camerlengo of the Sacred College of Cardinals,0,0,0,French,no
+1-Oct-1978,NA,27,Egidio Vagnozzi,2,Italy,26-Feb-1906,72.5941,11.2663,CP,26 June 1967,Paul VI,President of the Prefecture for the Economic Affairs of the Holy See,0,0,0,Italian,no
+1-Oct-1978,NA,28,Maximilien de Furstenberg,3,Belgium,23-Oct-1904,73.9384,11.2663,CP,26 June 1967,Paul VI,Grand Master of the Order of the Holy Sepulchre,0,0,0,French,no
+1-Oct-1978,NA,29,José Clemente Maurer ,3,Bolivia,13-Mar-1900,78.5517,11.2663,CP,26 June 1967,Paul VI,Archbishop of Sucre,0,0,0,German,no
+1-Oct-1978,NA,30,John Joseph Krol,3,United States,26-Oct-1910,67.9316,11.2663,CP,26 June 1967,Paul VI,Archbishop of Philadelphia,0,0,0,English,no
+1-Oct-1978,NA,31,John Patrick Cody,3,United States,24-Dec-1907,70.7707,11.2663,CP,26 June 1967,Paul VI,Archbishop of Chicago,0,0,0,English,no
+1-Oct-1978,NA,32,Corrado Ursi,2,Italy,26-Jul-1908,70.1821,11.2663,CP,26 June 1967,Paul VI,Archbishop of Naples,0,0,0,Italian,no
+1-Oct-1978,NA,33,Alfred Bengsch,2,East Germany[f],10-Sep-1921,57.0568,11.2663,CP,26 June 1967,Paul VI,Archbishop-Bishop of Berlin,0,0,0,German,no
+1-Oct-1978,NA,34,Justinus Darmojuwono,2,Indonesia,2-Nov-1914,63.9124,11.2663,CP,26 June 1967,Paul VI,Archbishop of Semarang,0,0,0,Javanese,no
+1-Oct-1978,John Paul II,35,Karol Józef Wojtyła,3,Poland,18-May-1920,58.3710,11.2663,CP,26 June 1967,Paul VI,Archbishop of Kraków,0,0,0,Polish,no
+1-Oct-1978,NA,36,Michele Pellegrino,2,Italy,25-Apr-1903,75.4360,11.2663,CP,26 June 1967,Paul VI,Archbishop emeritus of Turin,0,0,0,Italian,no
+1-Oct-1978,NA,37,Alexandre-Charles Renard,2,France,7-Jun-1906,72.3176,11.2663,CP,26 June 1967,Paul VI,Archbishop of Lyon,0,0,0,French,no
+1-Oct-1978,NA,38,Alfredo Vicente Scherer,3,Brazil,5-Feb-1903,75.6523,11.2663,CP,26 June 1967,Paul VI,Archbishop of Porto Alegre,0,0,0,German,no
+1-Oct-1978,NA,39,Julio Rosales y Ras,4,Philippines,18-Sep-1906,72.0356,9.4264,CP,28 April 1969,Paul VI,Archbishop of Cebu,0,0,0,Cebuano,no
+1-Oct-1978,NA,40,Gordon Joseph Gray,3,United Kingdom,10-Aug-1910,68.1424,9.4264,CP,28 April 1969,Paul VI,Archbishop of Saint Andrews and Edinburgh,0,0,0,English,no
+1-Oct-1978,NA,41,Paolo Bertoli,2,Italy,1-Feb-1908,70.6639,9.4264,CP,28 April 1969,Paul VI,Prefect emeritus of the Sacred Congregation for the Causes of Saints,0,0,0,Italian,no
+1-Oct-1978,NA,42,Joseph Parecattil,2,India,1-Apr-1912,66.4997,9.4264,CP,28 April 1969,Paul VI,"Archbishop of Ernakulam and President of the Pontifical Commission for the Revision of the Code of Oriental Canon Law
+(Syro-Malabar Catholic Church)",0,0,0,Malayalam,no
+1-Oct-1978,NA,43,John Francis Dearden,3,United States,15-Oct-1907,70.9624,9.4264,CP,28 April 1969,Paul VI,Archbishop of Detroit,0,0,0,English,no
+1-Oct-1978,NA,44,François Marty,2,France,16-May-1904,74.3765,9.4264,CP,28 April 1969,Paul VI,Archbishop of Paris,0,0,0,French,no
+1-Oct-1978,NA,45,George Bernard Flahiff,3,Canada,26-Oct-1905,72.9309,9.4264,CP,28 April 1969,Paul VI,Archbishop of Winnipeg,0,0,0,English,no
+1-Oct-1978,NA,46,Paul Gouyon,2,France,24-Oct-1910,67.9370,9.4264,CP,28 April 1969,Paul VI,Archbishop of Rennes,0,0,0,French,no
+1-Oct-1978,NA,47,Mario Casariego y Acevedo ,4,Guatemala,13-Feb-1909,69.6290,9.4264,CP,28 April 1969,Paul VI,Archbishop of Guatemala,0,0,0,Spanish,no
+1-Oct-1978,NA,48,Vicente Enrique y Tarancón,4,Spain,14-May-1907,71.3840,9.4264,CP,28 April 1969,Paul VI,Archbishop of Madrid,0,0,0,Spanish,no
+1-Oct-1978,NA,49,Joseph Malula,2,Zaire,12-Dec-1917,60.8022,9.4264,CP,28 April 1969,Paul VI,Archbishop of Kinshasa,0,0,0,Lingala,no
+1-Oct-1978,NA,50,Pablo Muñoz Vega ,3,Ecuador,23-May-1903,75.3593,9.4264,CP,28 April 1969,Paul VI,Archbishop of Quito,0,0,0,Spanish,no
+1-Oct-1978,NA,51,Antonio Poma,2,Italy,12-Jun-1910,68.3039,9.4264,CP,28 April 1969,Paul VI,Archbishop of Bologna,0,0,0,Italian,no
+1-Oct-1978,NA,52,John Joseph Carberry,3,United States,31-Jul-1904,74.1684,9.4264,CP,28 April 1969,Paul VI,Archbishop of St. Louis,0,0,0,English,no
+1-Oct-1978,NA,53,Terence James Cooke,3,United States,1-Mar-1921,57.5852,9.4264,CP,28 April 1969,Paul VI,Archbishop of New York,0,0,0,English,no
+1-Oct-1978,NA,54,Stephen Kim Sou-hwan,3,South Korea,8-May-1922,56.3997,9.4264,CP,28 April 1969,Paul VI,Archbishop of Seoul,0,0,0,Korean,no
+1-Oct-1978,NA,55,Eugênio de Araújo Sales,4,Brazil,8-Nov-1920,57.8946,9.4264,CP,28 April 1969,Paul VI,Archbishop of São Sebastião do Rio de Janeiro,0,0,0,Portuguese,no
+1-Oct-1978,NA,56,Joseph Höffner,2,West Germany,24-Dec-1906,71.7700,9.4264,CP,28 April 1969,Paul VI,Archbishop of Cologne,0,0,0,German,no
+1-Oct-1978,NA,57,John Joseph Wright,3,United States,18-Jul-1909,69.2047,9.4264,CP,28 April 1969,Paul VI,Prefect of the Sacred Congregation for the Clergy,0,0,0,English,no
+1-Oct-1978,NA,58,Johannes Willebrands,2,Netherlands,4-Sep-1909,69.0732,9.4264,CP,28 April 1969,Paul VI,Archbishop of Utrecht and President of the Secretariat for Christian Unity,0,0,0,Dutch,no
+1-Oct-1978,John Paul I,59,Albino Luciani,2,Italy,17-Oct-1912,65.9548,9.4264,CP,28 April 1969,Paul VI,Patriarch of Venice,0,0,0,Italian,yes
+1-Oct-1978,NA,60,António Ribeiro,2,Portugal,21-May-1928,50.3628,5.5743,CP,5 March 1973,Paul VI,Patriarch of Lisbon,0,0,0,Portuguese,no
+1-Oct-1978,NA,61,James Robert Knox,3,Australia,2-Mar-1914,64.5832,5.5743,CP,5 March 1973,Paul VI,Prefect of the Sacred Congregation for the Sacraments and Divine Worship,0,0,0,English,no
+1-Oct-1978,NA,62,Avelar Brandão Vilela,3,Brazil,13-Jun-1912,66.2998,5.5743,CP,5 March 1973,Paul VI,Archbishop of São Salvador da Bahia,0,0,0,Portuguese,no
+1-Oct-1978,NA,63,Joseph Cordeiro,2,Pakistan,19-Jan-1918,60.6982,5.5743,CP,5 March 1973,Paul VI,Archbishop of Karachi,0,0,0,Urdu,no
+1-Oct-1978,NA,64,Aníbal Muñoz Duque,3,Colombia,3-Oct-1908,69.9932,5.5743,CP,5 March 1973,Paul VI,Archbishop of Bogotá,0,0,0,Spanish,no
+1-Oct-1978,NA,65,Luis Aponte Martínez,3,"Puerto Rico
+(United States)[i]",4-Aug-1922,56.1588,5.5743,CP,5 March 1973,Paul VI,Archbishop of San Juan de Puerto Rico,0,0,0,Spanish,no
+1-Oct-1978,NA,66,Raúl Francisco Primatesta,3,Argentina,14-Apr-1919,59.4661,5.5743,CP,5 March 1973,Paul VI,Archbishop of Córdoba,0,0,0,Spanish,no
+1-Oct-1978,NA,67,Salvatore Pappalardo,2,Italy,23-Sep-1918,60.0219,5.5743,CP,5 March 1973,Paul VI,Archbishop of Palermo,0,0,0,Italian,no
+1-Oct-1978,NA,68,Marcelo González Martín,3,Spain,16-Jan-1918,60.7064,5.5743,CP,5 March 1973,Paul VI,Archbishop of Toledo,0,0,0,Spanish,no
+1-Oct-1978,NA,69,Louis-Jean Guyot,2,France,7-Jul-1905,73.2348,5.5743,CP,5 March 1973,Paul VI,Archbishop of Toulouse,0,0,0,French,no
+1-Oct-1978,NA,70,Ugo Poletti,2,Italy,19-Apr-1914,64.4517,5.5743,CP,5 March 1973,Paul VI,Vicar General for Rome and Archpriest of the Papal Basilica of Saint John Lateran,0,0,0,Italian,no
+1-Oct-1978,NA,71,Timothy Manning,2,United States,15-Nov-1909,68.8761,5.5743,CP,5 March 1973,Paul VI,Archbishop of Los Angeles,0,0,0,English,no
+1-Oct-1978,NA,72,Maurice Michael Otunga,3,Kenya,1-Jan-1923,55.7481,5.5743,CP,5 March 1973,Paul VI,Archbishop of Nairobi,0,0,0,Swahili,no
+1-Oct-1978,NA,73,José Salazar López,3,Mexico,12-Jan-1910,68.7173,5.5743,CP,5 March 1973,Paul VI,Archbishop of Guadalajara,0,0,0,Spanish,no
+1-Oct-1978,NA,74,Humberto Sousa Medeiros,3,United States,6-Oct-1915,62.9870,5.5743,CP,5 March 1973,Paul VI,Archbishop of Boston,0,0,0,Portuguese,no
+1-Oct-1978,NA,75,Paulo Evaristo Arns ,3,Brazil,14-Sep-1921,57.0459,5.5743,CP,5 March 1973,Paul VI,Archbishop of São Paulo,0,0,0,Portuguese,no
+1-Oct-1978,NA,76,James Darcy Freeman,3,Australia,9-Nov-1907,70.8939,5.5743,CP,5 March 1973,Paul VI,Archbishop of Sydney,0,0,0,English,no
+1-Oct-1978,NA,77,Narciso Jubany Arnau,3,Spain,12-Aug-1913,65.1362,5.5743,CP,5 March 1973,Paul VI,Archbishop of Barcelona,0,0,0,Spanish,no
+1-Oct-1978,NA,78,Hermann Volk,2,West Germany,27-Dec-1903,74.7625,5.5743,CP,5 March 1973,Paul VI,Bishop of Mainz,0,0,0,German,no
+1-Oct-1978,NA,79,Pio Taofinuʻu ,2,Western Samoa,8-Dec-1923,54.8145,2.3546,CP,24 May 1976,Paul VI,Bishop of Samoa and Tokelau,0,0,0,Samoan,no
+1-Oct-1978,NA,80,Octavio Antonio Beras Rojas,4,Dominican Republic,16-Nov-1906,71.8741,2.3546,CP,24 May 1976,Paul VI,Archbishop of Santo Domingo,0,0,0,Spanish,no
+1-Oct-1978,NA,81,Juan Carlos Aramburu,3,Argentina,11-Feb-1912,66.6366,2.3546,CP,24 May 1976,Paul VI,Archbishop of Buenos Aires,0,0,0,Spanish,no
+1-Oct-1978,NA,82,Joseph-Marie Trịnh Như Khuê,4,Vietnam,11-Dec-1898,79.8029,2.3546,CP,24 May 1976,Paul VI,Archbishop of Hanoi,0,0,0,Vietnamese,no
+1-Oct-1978,NA,83,Hyacinthe Thiandoum,2,Senegal,2-Feb-1921,57.6591,2.3546,CP,24 May 1976,Paul VI,Archbishop of Dakar,0,0,0,Wolof,no
+1-Oct-1978,NA,84,Emmanuel Nsubuga,2,Uganda,11-Nov-1914,63.8877,2.3546,CP,24 May 1976,Paul VI,Archbishop of Kampala,0,0,0,Luganda,no
+1-Oct-1978,NA,85,Lawrence Trevor Picachy ,3,India,7-Aug-1916,62.1492,2.3546,CP,24 May 1976,Paul VI,Archbishop of Calcutta,0,0,0,English,no
+1-Oct-1978,NA,86,Jaime Lachica Sin,3,Philippines,31-Aug-1928,50.0835,2.3546,CP,24 May 1976,Paul VI,Archbishop of Manila,0,0,0,Tagalog,no
+1-Oct-1978,NA,87,William Wakefield Baum,3,United States,21-Nov-1926,51.8604,2.3546,CP,24 May 1976,Paul VI,Archbishop of Washington,0,0,0,English,no
+1-Oct-1978,NA,88,Aloísio Lorscheider ,2,Brazil,8-Oct-1924,53.9795,2.3546,CP,24 May 1976,Paul VI,Archbishop of Fortaleza,0,0,0,Portuguese,no
+1-Oct-1978,NA,89,Reginald Delargey,2,New Zealand,10-Dec-1914,63.8084,2.3546,CP,24 May 1976,Paul VI,Archbishop of Wellington,0,0,0,English,no
+1-Oct-1978,NA,90,László Lékai,2,Hungary,12-Mar-1910,68.5558,2.3546,CP,24 May 1976,Paul VI,Archbishop of Esztergom,0,0,0,Hungarian,no
+1-Oct-1978,NA,91,George Basil Hume ,3,United Kingdom,2-Mar-1923,55.5838,2.3546,CP,24 May 1976,Paul VI,Archbishop of Westminster,0,0,0,English,no
+1-Oct-1978,NA,92,Victor Razafimahatratra ,2,Madagascar,8-Sep-1921,57.0623,2.3546,CP,24 May 1976,Paul VI,Archbishop of Tananarive,0,0,0,Malagasy,no
+1-Oct-1978,NA,93,František Tomášek,2,Czechoslovakia,30-Jun-1899,79.2526,2.3546,CP,24 May 1976,Paul VI,Archbishop of Prague,0,0,0,Czech,no
+1-Oct-1978,NA,94,Dominic Ignatius Ekandem,3,Nigeria,31-Mar-1905,73.5031,1.2621,CP,27 June 1977,Paul VI,Bishop of Ikot Ekpene,0,0,0,Ibibio,no
+1-Oct-1978,NA,95,Giovanni Benelli,2,Italy,12-May-1921,57.3881,1.2621,CP,27 June 1977,Paul VI,Archbishop of Florence,0,0,0,Italian,no
+1-Oct-1978,NA,96,Joseph Ratzinger,2,West Germany,16-Apr-1927,51.4606,11.2663,CP,26 June 1967,Paul VI,Archbishop of Munich and Freising,0,0,0,German,no
+1-Oct-1978,NA,97,Pericle Felici,2,Italy,1-Aug-1911,67.1677,9.4264,CD,28 April 1969,Paul VI,Prefect of the Supreme Tribunal of the Apostolic Signatura and President of the Pontifical Commissions for the Revision of the Code of Canon Law and for the Interpretation of the Decrees of the Second Vatican Council (Protodeacon),0,0,0,Italian,no
+1-Oct-1978,NA,98,Silvio Oddi,2,Italy,14-Nov-1910,67.8795,9.4264,CD,28 April 1969,Paul VI,Pontifical Legate for the Basilica of Saint Francis of Assisi,0,0,0,Italian,no
+1-Oct-1978,NA,99,Giuseppe Paupini,2,Italy,25-Feb-1907,71.5975,9.4264,CD,28 April 1969,Paul VI,Major Penitentiary,0,0,0,Italian,no
+1-Oct-1978,NA,100,Mario Nasalli Rocca di Corneliano,5,Italy,12-Aug-1903,75.1376,9.4264,CD,28 April 1969,Paul VI,Prefect emeritus of the Apostolic Palaces,0,0,0,Italian,no
+1-Oct-1978,NA,101,Sergio Guerri,2,Italy,25-Dec-1905,72.7666,5.5743,CD,5 March 1973,Paul VI,Pro-President of the Pontifical Commission for Vatican City State,0,0,0,Italian,no
+1-Oct-1978,NA,102,Sergio Pignedoli,2,Italy,4-Jun-1910,68.3258,5.5743,CD,5 March 1973,Paul VI,President of the Secretariat for Non-Christians,0,0,0,Italian,no
+1-Oct-1978,NA,103,Umberto Mozzoni,2,Argentina,29-Jun-1904,74.2560,5.5743,CD,5 March 1973,Paul VI,President of the Commission of Cardinals for the Pontifical Shrines of Pompeii and Loreto,0,0,0,Italian,no
+1-Oct-1978,NA,104,Paul-Pierre Philippe ,2,France,16-Apr-1905,73.4593,5.5743,CD,5 March 1973,Paul VI,Prefect of the Sacred Congregation for the Oriental Churches,0,0,0,French,no
+1-Oct-1978,NA,105,Pietro Palazzini,2,Italy,19-May-1912,66.3682,5.5743,CD,5 March 1973,Paul VI,Secretary emeritus of the Sacred Congregation for the Clergy and of the Commission of Cardinals for the Pontifical Shrines of Pompeii and Loreto,0,0,0,Italian,no
+1-Oct-1978,NA,106,Opilio Rossi,2,Italy,14-May-1910,68.3833,2.3546,CD,24 May 1976,Paul VI,President of the Pontifical Councils for the Laity and for the Family,0,0,0,Italian,no
+1-Oct-1978,NA,107,Giuseppe Maria Sensi,3,Italy,27-May-1907,71.3484,2.3546,CD,24 May 1976,Paul VI,Apostolic Nuncio emeritus to Portugal,0,0,0,Italian,no
+1-Oct-1978,NA,108,Corrado Bafile,2,Italy,4-Jul-1903,75.2444,2.3546,CD,24 May 1976,Paul VI,Prefect of the Sacred Congregation for the Causes of Saints,0,0,0,Italian,no
+1-Oct-1978,NA,109,Joseph Schröffer,2,West Germany,20-Feb-1903,75.6112,2.3546,CD,24 May 1976,Paul VI,Secretary emeritus of the Sacred Congregation for Catholic Education,0,0,0,German,no
+1-Oct-1978,NA,110,Eduardo Francisco Pironio,3,Argentina,3-Dec-1920,57.8261,2.3546,CD,24 May 1976,Paul VI,Prefect of the Sacred Congregation for the Religious and Secular Institutes,0,0,0,Spanish,no
+1-Oct-1978,NA,111,Bernardin Gantin,2,Benin,8-May-1922,56.3997,1.2621,CD,27 June 1977,Paul VI,President of the Pontifical Commission for Justice and Peace and of the Pontifical Council Cor Unum[j],0,0,0,French,no
+1-Oct-1978,NA,112,Mario Luigi Ciappi ,3,Italy,6-Oct-1909,68.9856,1.2621,CD,27 June 1977,Paul VI,Pro-Theologian of the Pontifical Household,0,0,0,Italian,no
